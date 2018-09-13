@@ -1,0 +1,2120 @@
+customer_delivery_address,customer_delivery_zip_code,client_name,rdd_time,rdd,po,product_information,net_total_price,canceled_manual_task,ocr_document_url_additional_processing_tagged,customer_delivery_city,cfg_valid_sender_list,export_format,sap_archiving,time_limit_offline,error_description_list,remove_color_objects,customer_name_ocr,cfg_po_fix_flag,cfg_central_config_uri,cfg_sap_gui_exec_filename,ocr_type,s3_endpoint_url,cfg_pickup_mail,env_name,invert_image,beyond_repair_flag,s3_bucket_name,product_information_ocr,cfg_default_rdd_days_after,cfg_gtin_mapping_filename,original_document_url,cfg_bw_report_filename,cfg_default_rdd_days_before,failure_email_subject_prefix,env,smtp_server_port,market,ship_to_postal_code,s3_attachments_bucket,test_cases_xlsx_uri,city_ocr,variables,purchase_order_ocr,net_total_price_ocr,ocr_document_url,cfg_display_gtin_file_loc,s3_secure_store_id,document_uuid,custom_regions,cfg_tz_adjust_minutes_num,ean6to13_conv_sap,ship_to_location,cfg_sap_connection_name,manual_path_cnt,cfg_temp_dir,workspace_name,cfg_attach_pdf,ocr_failed,discard_color_image,product_code_list,cfg_json,cfg_shared_drive_secstor_id,document_language,po_number,sys_env_code,ship_to_id,gtin_maping_customers_xlsx_uri,confirmation_email_from,order_number,cfg_bw_report_uri,cfg_error_mail_list,mail_id,quantity_list,cfg_rdd_days_after_range,change_dpi,rdd_orig,bp_run_id,document_hash,ship_to_name_ocr,no_cached_export_format,cache_datastore,failure_email_recipient,debug_mode,cfg_gtin_customers_mapping_filename,sender,process_error_distribution_list,drv_valid_to_process_flag,uuid,temp_directory,ocr_json,confirmation_email_recipient,ocr_xml_char_recognition,manual_path_max_cnt,street_address_ocr,creation_sorting_dttm,message,ship_to_report_xls_uri,failure_email_from,local_config,rdt,cfg_log_lvl_code,cache_hit,ocr_document_url_additional_processing,gtin_list,cfg_rdd_days_before_range,po_date,cfg_email_secure_store_id,prc_config_valid_flag,prc_log_text,request_delivery_date_ocr,email_credentials_secure_store_id,remove_color_objects_type,ship_to_name,sales_area_id,rdd_time_ocr,ship_to_street_name,drv_mails_cnt,sold_to,gtin_maping_xlsx_uri,smtp_server_host,confirmation_email_subject_prefix,error_id_list,zip_code_ocr,shared_drive_secure_store_id,allowed_region_types,sap_screenshot_file_uri,cfg_nexus_uri,time_limit_online,cfg_control_tower_endpoint,document_link,sap_credentials_secure_store_id,sap_bw_credentials_secure_store_id,cached_ocr_json,cfg_market_code,productcode2,productcode1,quantity,customer_delivery_address_confidence,customer_delivery_zip_code_confidence,client_name_confidence,rdd_time_confidence,rdd_confidence,po_confidence,product_information_confidence,net_total_price_confidence,canceled_manual_task_confidence,ocr_document_url_additional_processing_tagged_confidence,customer_delivery_city_confidence,productcode2_confidence,productcode1_confidence,quantity_confidence,customer_name,street_address,city,zip_code,request_delivery_date,purchase_order,product_lines,product_code_list_cnt,product_code_mode,should_download_bw_report,distribution_channel_id,gtin_matched,products_json,error_list_json,data_validity_flag,error_table,sap_attempts_cnt,order_sorting_date,cfg_max_qty,products_json_valid_answers,products_json_original_answers,daysinpast,daysinfuture,products_json_confidence,beyond_repair_flag_confidence,ship_to_id_confidence,sales_area_id_confidence,distribution_channel_id_confidence,products_json_valid_answers_confidence,products_json_original_answers_confidence,daysinpast_confidence,daysinfuture_confidence,error_data,successwithwarningflag,soldtos_json,goto_soldto_selection,sap_validity_flag,soldtos_json_original_answers,soldtos_json_valid_answers,cancel_soldto,soldtos_json_confidence,soldtos_json_original_answers_confidence,soldtos_json_valid_answers_confidence,cancel_soldto_confidence,sap_archiving_screenshot_file_uri,error_archiving_id,error_archiving_description
+Lageruddsvaegen 1,616 90,,,05.09.2018,615628,"{""product_information"":[{""productcode1"":""4084500578944"",""productcode2"":""832013200101"",""quantity"":""11616""},{""productcode1"":""4084500578975"",""productcode2"":""832013200103"",""quantity"":""10560""}]}",414469.44,NO,"<document xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" languages="""" producer=""Workfusion"" version=""1.0"" xsi:schemalocation=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+   <link href=""https://s3.amazonaws.com/workfusion-resources/ocr/ocr-xml-viewer-0.3-scale-to-width.css"" rel=""stylesheet"" type=""text/css"" /> 
+    
+    
+    
+   <style>.hidden {display:none;}</style> 
+   <page h=""2200"" resolution=""200"" w=""1653"" data-pages=""2"" style=""height: 1341px;""> 
+    <block b=""151"" blockname="""" blocktype=""Text"" l=""148"" r=""312"" t=""106"" style=""transform: translate(93px, 69px); position: absolute; width: 103.281px; height: 29.25px;""> 
+     <region> 
+      <rect b=""151"" l=""148"" r=""312"" t=""106""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""1260""> 
+       <line b=""147"" baseline=""145"" l=""152"" r=""307"" t=""110"" style=""transform: translate(3px, 3px); position: absolute;""> 
+        <formatting lang=""NorwegianBokmal"">
+          ■RUSTA 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <block b=""156"" blockname="""" blocktype=""Text"" l=""1099"" r=""1197"" t=""124"" style=""transform: translate(692px, 81px); position: absolute; width: 61.7169px; height: 20.8px;""> 
+     <region> 
+      <rect b=""156"" l=""1099"" r=""1197"" t=""124""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""860""> 
+       <line b=""152"" baseline=""151"" l=""1103"" r=""1192"" t=""127"" style=""transform: translate(3px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Order 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""1081"" l=""115"" r=""955"" t=""247""></rect> 
+    </region>
+    <table xmlns="""" b=""1081"" blockname="""" blocktype=""Table"" l=""115"" r=""955"" t=""247"" style=""transform: translate(72px, 161px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td h=""103"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""540""> 
+          <line b=""267"" baseline=""266"" l=""119"" r=""224"" t=""251""> 
+           <formatting lang=""Swedish"">
+             Leverantoer 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""720""> 
+          <line b=""304"" baseline=""303"" l=""119"" r=""193"" t=""283""> 
+           <formatting lang=""EnglishUnitedStates"">
+             20857 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""830""> 
+          <line b=""343"" baseline=""343"" l=""118"" r=""252"" t=""320""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Att: Order 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""103"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""580""> 
+          <line b=""267"" baseline=""266"" l=""473"" r=""578"" t=""250""> 
+           <formatting lang=""Swedish"">
+             Versionsnr 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""1700"" linespacing=""680""> 
+          <line b=""303"" baseline=""303"" l=""473"" r=""485"" t=""284""> 
+           <formatting lang=""Swedish"">
+             0 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""103"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""4600"" linespacing=""1296""> 
+          <line b=""270"" baseline=""270"" l=""713"" r=""831"" t=""253""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Printed date 
+           </formatting> 
+          </line> 
+          <line b=""313"" baseline=""306"" l=""711"" r=""856"" t=""286""> 
+           <formatting lang=""Swedish"">
+             2018-jun-27 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""64"" leftborder=""White"" rightborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""580""> 
+          <line b=""377"" baseline=""377"" l=""119"" r=""275"" t=""361""> 
+           <formatting lang=""Swedish"">
+             Leveransadress 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""64"" leftborder=""White"" rightborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""64"" leftborder=""White"" rightborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""580""> 
+          <line b=""377"" baseline=""377"" l=""670"" r=""791"" t=""361""> 
+           <formatting lang=""NorwegianBokmal"">
+             Levera ntoers- 
+           </formatting>  
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""580""> 
+          <line b=""406"" baseline=""406"" l=""669"" r=""734"" t=""390""> 
+           <formatting lang=""Swedish"">
+             adress 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""71"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""760""> 
+          <line b=""447"" baseline=""441"" l=""119"" r=""377"" t=""420""> 
+           <formatting lang=""Swedish"">
+             Rusta Norrkoeping DL 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""71"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""71"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""1224""> 
+          <line b=""441"" baseline=""441"" l=""670"" r=""953"" t=""420""> 
+           <formatting lang=""Swedish"">
+             Procter &amp; Gamble Sver 
+           </formatting> 
+          </line> 
+          <line b=""477"" baseline=""476"" l=""669"" r=""909"" t=""455""> 
+           <formatting lang=""Swedish"">
+             Att: Order 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""38"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""760""> 
+          <line b=""520"" baseline=""514"" l=""119"" r=""343"" t=""493""> 
+           <formatting lang=""Swedish"">
+             <customer_delivery_address data-toggle=""tooltip"" style=""background-color: rgb(164, 232, 4);"" class=""extraction-tag"" tagorder=""1"" appendorder=""2"" data-value=""Lageruddsvaegen 1"" data-original-title=""Street address"" confidence=""1/1"">Lageruddsvaegen 1</customer_delivery_address> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""38"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""38"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""760""> 
+          <line b=""514"" baseline=""514"" l=""670"" r=""810"" t=""493""> 
+           <formatting lang=""Swedish"">
+             BOX 27303 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""35"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""900""> 
+          <line b=""550"" baseline=""550"" l=""118"" r=""282"" t=""525""> 
+           <formatting lang=""Swedish"">
+             <customer_delivery_zip_code data-toggle=""tooltip"" style=""background-color: rgb(255, 52, 255);"" class=""extraction-tag"" tagorder=""3"" appendorder=""7"" data-value=""616 90"" data-original-title="" Zip code"" confidence=""1/1"">616 90</customer_delivery_zip_code>-<customer_delivery_city data-toggle=""tooltip"" style=""background-color: rgb(28, 230, 255);"" class=""extraction-tag"" tagorder=""2"" appendorder=""10"" data-value=""ABY"" data-original-title=""City"" confidence=""1/1"">ABY</customer_delivery_city> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""35"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""35"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""290""> 
+          <line b=""544"" baseline=""549"" l=""670"" r=""676"" t=""541""> 
+           <formatting lang=""Swedish"">
+             - 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""85"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""720""> 
+          <line b=""587"" baseline=""586"" l=""118"" r=""298"" t=""566""> 
+           <formatting lang=""Swedish"">
+             SE - SWEDEN 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""85"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""85"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""720""> 
+          <line b=""587"" baseline=""586"" l=""671"" r=""950"" t=""566""> 
+           <formatting lang=""Swedish"">
+             102 54-STOCKHOLM 
+           </formatting> 
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""720""> 
+          <line b=""624"" baseline=""623"" l=""669"" r=""849"" t=""603""> 
+           <formatting lang=""Swedish"">
+             SE - SWEDEN 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""44"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""580""> 
+          <line b=""679"" baseline=""679"" l=""119"" r=""245"" t=""663""> 
+           <formatting lang=""Swedish"">
+             Leverans satt 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""44"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""44"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""540""> 
+          <line b=""679"" baseline=""678"" l=""670"" r=""817"" t=""663""> 
+           <formatting lang=""Swedish"">
+             Leveransvillkor 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""34"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""760""> 
+          <line b=""714"" baseline=""714"" l=""119"" r=""375"" t=""693""> 
+           <formatting lang=""Swedish"">
+             ROAD TRANSPORT 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""34"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""34"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""760""> 
+          <line b=""714"" baseline=""714"" l=""671"" r=""830"" t=""693""> 
+           <formatting lang=""Swedish"">
+             Fritt levererat 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""67"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""580""> 
+          <line b=""749"" baseline=""744"" l=""118"" r=""200"" t=""728""> 
+           <formatting lang=""Swedish"">
+             Speditoer 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""67"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""67"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""580""> 
+          <line b=""750"" baseline=""744"" l=""670"" r=""829"" t=""728""> 
+           <formatting lang=""Swedish"">
+             Betalningsvillkor 
+           </formatting> 
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""760""> 
+          <line b=""785"" baseline=""779"" l=""670"" r=""821"" t=""758""> 
+           <formatting lang=""Swedish"">
+             15 Days Net 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""49"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""610""> 
+          <line b=""810"" baseline=""810"" l=""118"" r=""232"" t=""793""> 
+           <formatting lang=""Swedish"">
+             Godsmaerke 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""49"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""49"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""3100"" linespacing=""610""> 
+          <line b=""810"" baseline=""809"" l=""669"" r=""783"" t=""792""> 
+           <formatting lang=""Swedish"">
+             Vart kundnr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""244"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""310""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""580""> 
+          <line b=""879"" baseline=""878"" l=""118"" r=""234"" t=""862""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Coordinator 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""760""> 
+          <line b=""914"" baseline=""914"" l=""119"" r=""297"" t=""893""> 
+           <formatting lang=""Swedish"">
+             Lisa Svensson 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""580""> 
+          <line b=""988"" baseline=""983"" l=""119"" r=""176"" t=""967""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Buyer 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""760""> 
+          <line b=""1019"" baseline=""1019"" l=""120"" r=""322"" t=""998""> 
+           <formatting lang=""Swedish"">
+             Mikael Hoimbiad 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""760""> 
+          <line b=""1077"" baseline=""1071"" l=""119"" r=""356"" t=""1050""> 
+           <formatting lang=""Swedish"">
+             Kampanjorder V.38 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""244"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""159""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1700"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""244"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""371""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""580""> 
+          <line b=""879"" baseline=""878"" l=""590"" r=""664"" t=""862""> 
+           <formatting lang=""Swedish"">
+             Telefon 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <block b=""310"" blockname="""" blocktype=""Text"" l=""1021"" r=""1436"" t=""246"" style=""transform: translate(643px, 160px); position: absolute; width: 261.352px; height: 41.6px;""> 
+     <region> 
+      <rect b=""310"" l=""1021"" r=""1436"" t=""246""></rect> 
+     </region> 
+     <text> 
+      <par align=""Justified"" linespacing=""1332""> 
+       <line b=""271"" baseline=""267"" l=""1025"" r=""1432"" t=""249"" style=""transform: translate(3px, 2px); position: absolute;""> 
+        <formatting lang=""NorwegianBokmal"">
+          Vart orderdatum Inkoepsorder 
+        </formatting>  
+       </line> 
+      </par> 
+      <par align=""Justified"" linespacing=""1332""> 
+       <line b=""306"" baseline=""304"" l=""1025"" r=""1408"" t=""283"" style=""transform: translate(3px, 24px); position: absolute;""> 
+        <formatting lang=""Swedish"">
+          2018-06-27 615628 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <block b=""924"" blockname="""" blocktype=""Text"" l=""993"" r=""1327"" t=""859"" style=""transform: translate(625px, 558px); position: absolute; width: 210.341px; height: 42.25px;""> 
+     <region> 
+      <rect b=""924"" l=""993"" r=""1327"" t=""859""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""610""> 
+       <line b=""883"" baseline=""879"" l=""995"" r=""1057"" t=""862"" style=""transform: translate(1px, 2px); position: absolute;""> 
+        <formatting lang=""NorwegianBokmal"">
+          E-post 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""760""> 
+       <line b=""920"" baseline=""914"" l=""995"" r=""1323"" t=""893"" style=""transform: translate(1px, 22px); position: absolute;""> 
+        <formatting lang=""Finnish"">
+          Lisa. Svensson@rusta. com 
+        </formatting>  
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""1622"" l=""114"" r=""1579"" t=""1111""></rect> 
+    </region>
+    <table xmlns="""" b=""1622"" blockname="""" blocktype=""Table"" l=""114"" r=""1579"" t=""1111"" style=""transform: translate(72px, 722px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td bottomborder=""White"" h=""124"" leftborder=""White"" rightborder=""White"" w=""191""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" linespacing=""610""> 
+          <line b=""1166"" baseline=""1166"" l=""119"" r=""239"" t=""1149""> 
+           <formatting lang=""Swedish"">
+             Rad Box Id 
+           </formatting>  
+          </line> 
+         </par> 
+         <par align=""Justified"" linespacing=""580""> 
+          <line b=""1195"" baseline=""1194"" l=""119"" r=""250"" t=""1178""> 
+           <formatting lang=""Swedish"">
+             1 578334 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""124"" leftborder=""White"" rightborder=""White"" w=""527""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""2100"" linespacing=""580""> 
+          <line b=""1171"" baseline=""1165"" l=""363"" r=""475"" t=""1149""> 
+           <formatting lang=""Swedish"">
+             Beskrivning 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""2100"" linespacing=""610""> 
+          <line b=""1199"" baseline=""1195"" l=""363"" r=""776"" t=""1178""> 
+           <formatting lang=""EnglishUnitedStates"">
+             BOXYes Naturals 900 ml 1/2 pali 168 pcs 
+           </formatting>     
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""124"" leftborder=""White"" rightborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1000"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" colspan=""2"" h=""124"" leftborder=""White"" rightborder=""White"" w=""243""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""700"" linespacing=""610""> 
+          <line b=""1170"" baseline=""1166"" l=""970"" r=""1101"" t=""1149""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Qty Of Boxes 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""700"" linespacing=""610""> 
+          <line b=""1195"" baseline=""1195"" l=""971"" r=""1006"" t=""1178""> 
+           <formatting lang=""EnglishUnitedStates"">
+             132 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""124"" leftborder=""White"" rightborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""580""> 
+          <line b=""1166"" baseline=""1166"" l=""1208"" r=""1311"" t=""1150""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Lev. datum 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""610""> 
+          <line b=""1195"" baseline=""1195"" l=""1207"" r=""1320"" t=""1178""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <rdd data-toggle=""tooltip"" style=""background-color: rgb(255, 74, 70);"" class=""extraction-tag"" tagorder=""4"" appendorder=""5"" data-value=""2018-09-03"" data-original-title=""Request Delivery Date"" confidence=""1/1"">2018-09-03</rdd> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""124"" leftborder=""White"" rightborder=""White"" w=""193""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""191""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" linespacing=""610""> 
+          <line b=""1258"" baseline=""1258"" l=""119"" r=""244"" t=""1241""> 
+           <formatting lang=""Swedish"">
+             Vart artikelnr 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""1600"" linespacing=""580""> 
+          <line b=""1287"" baseline=""1287"" l=""159"" r=""271"" t=""1271""> 
+           <formatting lang=""Swedish"">
+             Ert artikelnr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""527""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""580""> 
+          <line b=""1263"" baseline=""1258"" l=""343"" r=""455"" t=""1242""> 
+           <formatting lang=""Swedish"">
+             Beskrivning 
+           </formatting> 
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""580""> 
+          <line b=""1292"" baseline=""1287"" l=""343"" r=""481"" t=""1271""> 
+           <formatting lang=""Swedish"">
+             Er beskrivning 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1000"" linespacing=""580""> 
+          <line b=""1258"" baseline=""1258"" l=""861"" r=""942"" t=""1242""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Ant./Box 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""124""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""580""> 
+          <line b=""1258"" baseline=""1258"" l=""960"" r=""1068"" t=""1242""> 
+           <formatting lang=""Swedish"">
+             Totalt antal 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""800"" linespacing=""580""> 
+          <line b=""1258"" baseline=""1258"" l=""1098"" r=""1180"" t=""1242""> 
+           <formatting lang=""NorwegianBokmal"">
+             R a batt % 
+           </formatting>   
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""580"" rightindent=""1800""> 
+          <line b=""1258"" baseline=""1258"" l=""1301"" r=""1336"" t=""1242""> 
+           <formatting lang=""Danish"">
+             Pris 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""61"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""193""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""580""> 
+          <line b=""1258"" baseline=""1258"" l=""1494"" r=""1573"" t=""1242""> 
+           <formatting lang=""Danish"">
+             Netto bel 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""191""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" linespacing=""1044""> 
+          <line b=""1316"" baseline=""1316"" l=""118"" r=""262"" t=""1299""> 
+           <formatting lang=""Swedish"">
+             <productcode2 data-toggle=""tooltip"" style=""background-color: rgb(255, 47, 128);"" class=""extraction-tag"" tagorder=""9"" appendorder=""4"" data-value=""832013200101"" data-original-title=""Product code 2"" confidence=""1/1"" tabnumber=""0"">832013200101</productcode2> 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""1600"" linespacing=""1044""> 
+          <line b=""1346"" baseline=""1345"" l=""157"" r=""230"" t=""1329""> 
+           <formatting lang=""Swedish"">
+             578944 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""1600"" linespacing=""1044""> 
+          <line b=""1375"" baseline=""1374"" l=""157"" r=""242"" t=""1358""> 
+           <formatting lang=""Swedish"">
+             GTIN-nr: 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""527""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""1044""> 
+          <line b=""1321"" baseline=""1316"" l=""342"" r=""793"" t=""1299""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Dishwashing liquid Yes Naturals 900 ml Apple 
+           </formatting> 
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""1044""> 
+          <line b=""1350"" baseline=""1346"" l=""341"" r=""519"" t=""1329""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Yes Natural Apple 
+           </formatting> 
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""1044""> 
+          <line b=""1375"" baseline=""1374"" l=""342"" r=""501"" t=""1358""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <productcode1 data-toggle=""tooltip"" style=""background-color: rgb(128, 150, 147);"" class=""extraction-tag"" tagorder=""7"" appendorder=""3"" data-value=""4084500578944"" data-original-title=""Product code 1"" confidence=""1/1"" tabnumber=""0"">4084500578944</productcode1> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Center"" linespacing=""610"" rightindent=""400""> 
+          <line b=""1316"" baseline=""1316"" l=""884"" r=""907"" t=""1299""> 
+           <formatting lang=""EnglishUnitedStates"">
+             88 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""124""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""900"" linespacing=""610""> 
+          <line b=""1316"" baseline=""1316"" l=""977"" r=""1036"" t=""1299""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <quantity data-toggle=""tooltip"" style=""background-color: rgb(251, 168, 145);"" class=""extraction-tag"" tagorder=""11"" appendorder=""9"" data-value=""11616"" data-original-title=""Quantity"" confidence=""1/1"" tabnumber=""0"">11616</quantity> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""540""> 
+          <line b=""1315"" baseline=""1315"" l=""1110"" r=""1119"" t=""1300""> 
+           <formatting lang=""EnglishUnitedStates"">
+             0 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""610"" rightindent=""1800""> 
+          <line b=""1319"" baseline=""1316"" l=""1283"" r=""1336"" t=""1299""> 
+           <formatting lang=""EnglishUnitedStates"">
+             18,69 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""94"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""193""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""580""> 
+          <line b=""1319"" baseline=""1315"" l=""1464"" r=""1573"" t=""1299""> 
+           <formatting lang=""EnglishUnitedStates"">
+             217 103,04 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""191""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" linespacing=""1044""> 
+          <line b=""1421"" baseline=""1421"" l=""118"" r=""265"" t=""1404""> 
+           <formatting lang=""Swedish"">
+             <productcode2 data-toggle=""tooltip"" style=""background-color: rgb(255, 47, 128);"" class=""extraction-tag"" tagorder=""10"" appendorder=""12"" data-value=""832013200103"" data-original-title=""Product code 2"" confidence=""1/1"" tabnumber=""1"">832013200103</productcode2> 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""1600"" linespacing=""1044""> 
+          <line b=""1450"" baseline=""1450"" l=""157"" r=""230"" t=""1433""> 
+           <formatting lang=""Swedish"">
+             578975 
+           </formatting> 
+          </line> 
+         </par> 
+         <par leftindent=""1600"" linespacing=""1044""> 
+          <line b=""1479"" baseline=""1478"" l=""157"" r=""242"" t=""1462""> 
+           <formatting lang=""Swedish"">
+             GTIN-nr: 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""527""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""1044"" rightindent=""1000""> 
+          <line b=""1426"" baseline=""1421"" l=""342"" r=""804"" t=""1404""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Dishwashing liquid Yes Naturals 900 ml Lemon 
+           </formatting> 
+          </line> 
+          <line b=""1450"" baseline=""1450"" l=""341"" r=""530"" t=""1433""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Yes Natural Lemon 
+           </formatting> 
+          </line> 
+         </par> 
+         <par align=""Justified"" leftindent=""1300"" linespacing=""1044""> 
+          <line b=""1479"" baseline=""1479"" l=""342"" r=""501"" t=""1462""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <productcode1 data-toggle=""tooltip"" style=""background-color: rgb(128, 150, 147);"" class=""extraction-tag"" tagorder=""8"" appendorder=""11"" data-value=""4084500578975"" data-original-title=""Product code 1"" confidence=""1/1"" tabnumber=""1"">4084500578975</productcode1> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Center"" linespacing=""610"" rightindent=""400""> 
+          <line b=""1421"" baseline=""1421"" l=""884"" r=""907"" t=""1404""> 
+           <formatting lang=""EnglishUnitedStates"">
+             80 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""124""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""900"" linespacing=""610""> 
+          <line b=""1421"" baseline=""1421"" l=""977"" r=""1036"" t=""1404""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <quantity data-toggle=""tooltip"" style=""background-color: rgb(251, 168, 145);"" class=""extraction-tag"" tagorder=""12"" appendorder=""13"" data-value=""10560"" data-original-title=""Quantity"" confidence=""1/1"" tabnumber=""1"">10560</quantity> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""540""> 
+          <line b=""1420"" baseline=""1420"" l=""1110"" r=""1119"" t=""1405""> 
+           <formatting lang=""EnglishUnitedStates"">
+             0 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""610"" rightindent=""1800""> 
+          <line b=""1424"" baseline=""1421"" l=""1283"" r=""1336"" t=""1404""> 
+           <formatting lang=""EnglishUnitedStates"">
+             18,69 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""117"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""193""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""610""> 
+          <line b=""1424"" baseline=""1421"" l=""1465"" r=""1573"" t=""1404""> 
+           <formatting lang=""EnglishUnitedStates"">
+             197 366,40 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""52"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""191""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td colspan=""2"" h=""52"" leftborder=""White"" rightborder=""White"" w=""646""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""13100"" linespacing=""610""> 
+          <line b=""1540"" baseline=""1535"" l=""669"" r=""900"" t=""1518""> 
+           <formatting lang=""Swedish"">
+             Totalt delbelopp netto 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""52"" leftborder=""White"" rightborder=""White"" w=""124""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""900""> 
+          <line b=""1545"" baseline=""1545"" l=""1070"" r=""1075"" t=""1520""> 
+           <formatting lang=""EnglishUnitedStates"">
+             ( 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""52"" leftborder=""White"" rightborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""760""> 
+          <line b=""1546"" baseline=""1540"" l=""1075"" r=""1149"" t=""1519""> 
+           <formatting lang=""EnglishUnitedStates"">
+             ;SEK) 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""52"" leftborder=""White"" rightborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td h=""52"" leftborder=""White"" rightborder=""White"" w=""193""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""760""> 
+          <line b=""1545"" baseline=""1540"" l=""1436"" r=""1574"" t=""1519""> 
+           <formatting lang=""EnglishUnitedStates"">
+             414 469,44 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""191""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" w=""527""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""13100"" linespacing=""610""> 
+          <line b=""1610"" baseline=""1605"" l=""669"" r=""794"" t=""1588""> 
+           <formatting lang=""Swedish"">
+             Totalbelopp 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1000"" linespacing=""-1""></par> 
+        </text> </td> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" w=""124""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""900""> 
+          <line b=""1615"" baseline=""1615"" l=""1070"" r=""1075"" t=""1590""> 
+           <formatting lang=""EnglishUnitedStates"">
+             ( 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" w=""119""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""760""> 
+          <line b=""1616"" baseline=""1610"" l=""1075"" r=""1149"" t=""1589""> 
+           <formatting lang=""EnglishUnitedStates"">
+             ;SEK) 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td h=""63"" leftborder=""White"" rightborder=""White"" w=""193""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""760""> 
+          <line b=""1615"" baseline=""1610"" l=""1436"" r=""1574"" t=""1589""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <net_total_price data-toggle=""tooltip"" style=""background-color: rgb(143, 176, 255);"" class=""extraction-tag"" tagorder=""6"" appendorder=""6"" data-value=""414469.44"" data-original-title=""Net Total Price"" confidence=""1/1"">414 469,44</net_total_price> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <block b=""1869"" blockname="""" blocktype=""Text"" l=""114"" r=""1550"" t=""1652"" style=""transform: translate(72px, 1074px); position: absolute; width: 904.341px; height: 141.05px;""> 
+     <region> 
+      <rect b=""1869"" l=""114"" r=""1550"" t=""1652""></rect> 
+     </region> 
+     <text> 
+      <par align=""Justified"" linespacing=""1296"" rightindent=""1200""> 
+       <line b=""1682"" baseline=""1676"" l=""120"" r=""1546"" t=""1655"" style=""transform: translate(4px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          in case any substance listed on the Candidate list of Substances of Very High Concern (SVHC) is present in RUSTA 
+        </formatting> 
+       </line> 
+       <line b=""1719"" baseline=""1713"" l=""119"" r=""1458"" t=""1692"" style=""transform: translate(3px, 26px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          products or packaging above 0.1 % in weight of the individual component, RUSTA shall be informed in writing. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296"" rightindent=""1200""> 
+       <line b=""1755"" baseline=""1749"" l=""117"" r=""1494"" t=""1728"" style=""transform: translate(2px, 49px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          The RUSTA products on this order shall be marked with ""CE"". The Supplier shall sign the RUSTA Declaration of 
+        </formatting> 
+       </line> 
+       <line b=""1792"" baseline=""1786"" l=""118"" r=""1271"" t=""1765"" style=""transform: translate(3px, 73px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Conformity (DoC) and send relevant Certificates and Test reports from a third party laboratory. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296"" rightindent=""1200""> 
+       <line b=""1828"" baseline=""1822"" l=""119"" r=""1453"" t=""1801"" style=""transform: translate(3px, 97px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Products and packaging delivered to RUSTA shall comply with the chemical restrictions according to REACH 
+        </formatting> 
+       </line> 
+       <line b=""1865"" baseline=""1859"" l=""119"" r=""1197"" t=""1838"" style=""transform: translate(3px, 121px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Regulation, Annex XVH and be confirmed with a Seif Declaration signed by the Supplier. 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""2041"" l=""115"" r=""1419"" t=""1921""></rect> 
+    </region>
+    <table xmlns="""" b=""2041"" blockname="""" blocktype=""Table"" l=""115"" r=""1419"" t=""1921"" style=""transform: translate(72px, 1249px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1937"" baseline=""1937"" l=""118"" r=""222"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Besoeksadress 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1937"" baseline=""1937"" l=""321"" r=""427"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Fakturaadress 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""430""> 
+          <line b=""1937"" baseline=""1936"" l=""523"" r=""577"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Telefon 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""470""> 
+          <line b=""1937"" baseline=""1937"" l=""725"" r=""751"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Fax 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""1941"" baseline=""1937"" l=""925"" r=""989"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Bankgiro 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1941"" baseline=""1937"" l=""1125"" r=""1184"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Plusgiro 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""430""> 
+          <line b=""1941"" baseline=""1936"" l=""1328"" r=""1414"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             fvlomsreg.nr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1964"" baseline=""1964"" l=""118"" r=""188"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Rusta AB 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""430""> 
+          <line b=""1964"" baseline=""1963"" l=""321"" r=""368"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Tfn vxl 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""470""> 
+          <line b=""1968"" baseline=""1964"" l=""523"" r=""587"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Bankgiro 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""430""> 
+          <line b=""1968"" baseline=""1963"" l=""725"" r=""812"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Org. number 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""1964"" baseline=""1964"" l=""925"" r=""963"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Bank 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1968"" baseline=""1964"" l=""1125"" r=""1240"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Bolaget innehar 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""430""> 
+          <line b=""1991"" baseline=""1986"" l=""118"" r=""256"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             Kanalvaegen 12, 4tr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""321"" r=""418"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             08-626 43 00 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""524"" r=""592"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             722-3100 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""725"" r=""822"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             556280-2115 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""925"" r=""1024"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             Danske Bank 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""1125"" r=""1224"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             F-skattebevis 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2012"" baseline=""2012"" l=""118"" r=""187"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             Box 5064 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2012"" baseline=""2012"" l=""321"" r=""347"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             Fax 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""430""> 
+          <line b=""2012"" baseline=""2011"" l=""524"" r=""628"" t=""1999""> 
+           <formatting lang=""Danish"">
+             Momsnummer 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""430""> 
+          <line b=""2012"" baseline=""2011"" l=""725"" r=""776"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             SWIFT 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""2012"" baseline=""2012"" l=""926"" r=""963"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             IBAN 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2036"" baseline=""2033"" l=""119"" r=""294"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             194 05 Upplands Vaesby 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""321"" r=""416"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             08-626 43 01 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""523"" r=""653"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             SE556280211501 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""725"" r=""814"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             DABASESX 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""925"" r=""1111"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             SE901200000001338011 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <block b=""2063"" blockname="""" blocktype=""Text"" l=""1213"" r=""1252"" t=""2043"" style=""transform: translate(764px, 1328px); position: absolute; width: 24.5608px; height: 13px;""> 
+     <region> 
+      <rect b=""2063"" l=""1213"" r=""1252"" t=""2043""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""470""> 
+       <line b=""2059"" baseline=""2059"" l=""1216"" r=""1248"" t=""2046"" style=""transform: translate(2px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Sida 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <block b=""351"" blockname="""" blocktype=""Separator"" l=""118"" r=""1575"" t=""349"" style=""transform: translate(74px, 227px); position: absolute;""> 
+     <region> 
+      <rect b=""351"" l=""118"" r=""1575"" t=""349""></rect> 
+     </region> 
+     <separator thickness=""2"" type=""Black""> 
+      <start x=""118"" y=""350""></start> 
+      <end x=""1575"" y=""350""></end> 
+     </separator> 
+    </block> 
+    <block b=""1113"" blockname="""" blocktype=""Separator"" l=""118"" r=""1575"" t=""1111"" style=""transform: translate(74px, 722px); position: absolute;""> 
+     <region> 
+      <rect b=""1113"" l=""118"" r=""1575"" t=""1111""></rect> 
+     </region> 
+     <separator thickness=""2"" type=""Black""> 
+      <start x=""118"" y=""1112""></start> 
+      <end x=""1575"" y=""1112""></end> 
+     </separator> 
+    </block> 
+    <block b=""1504"" blockname="""" blocktype=""Separator"" l=""668"" r=""1575"" t=""1502"" style=""transform: translate(421px, 976px); position: absolute;""> 
+     <region> 
+      <rect b=""1504"" l=""668"" r=""1575"" t=""1502""></rect> 
+     </region> 
+     <separator thickness=""2"" type=""Black""> 
+      <start x=""668"" y=""1503""></start> 
+      <end x=""1575"" y=""1503""></end> 
+     </separator> 
+    </block> 
+    <block b=""1514"" blockname="""" blocktype=""Separator"" l=""668"" r=""1575"" t=""1511"" style=""transform: translate(421px, 982px); position: absolute;""> 
+     <region> 
+      <rect b=""1514"" l=""668"" r=""1575"" t=""1511""></rect> 
+     </region> 
+     <separator thickness=""3"" type=""Black""> 
+      <start x=""668"" y=""1512""></start> 
+      <end x=""1575"" y=""1512""></end> 
+     </separator> 
+    </block> 
+    <block b=""1561"" blockname="""" blocktype=""Separator"" l=""668"" r=""1575"" t=""1557"" style=""transform: translate(421px, 1012px); position: absolute;""> 
+     <region> 
+      <rect b=""1561"" l=""668"" r=""1575"" t=""1557""></rect> 
+     </region> 
+     <separator thickness=""4"" type=""Black""> 
+      <start x=""668"" y=""1559""></start> 
+      <end x=""1575"" y=""1559""></end> 
+     </separator> 
+    </block> 
+    <block b=""1622"" blockname="""" blocktype=""Separator"" l=""118"" r=""1575"" t=""1618"" style=""transform: translate(74px, 1052px); position: absolute;""> 
+     <region> 
+      <rect b=""1622"" l=""118"" r=""1575"" t=""1618""></rect> 
+     </region> 
+     <separator thickness=""4"" type=""Black""> 
+      <start x=""118"" y=""1620""></start> 
+      <end x=""1575"" y=""1620""></end> 
+     </separator> 
+    </block> 
+    <block b=""1913"" blockname="""" blocktype=""Separator"" l=""120"" r=""1575"" t=""1911"" style=""transform: translate(76px, 1242px); position: absolute;""> 
+     <region> 
+      <rect b=""1913"" l=""120"" r=""1575"" t=""1911""></rect> 
+     </region> 
+     <separator thickness=""2"" type=""Black""> 
+      <start x=""120"" y=""1912""></start> 
+      <end x=""1575"" y=""1912""></end> 
+     </separator> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""1294"" l=""118"" r=""1575"" t=""1236""></rect> 
+    </region>
+    <table xmlns="""" b=""1294"" blockname="""" blocktype=""Table"" l=""118"" r=""1575"" t=""1236"" style=""transform: translate(74px, 803px); position: absolute;"">  
+    </table> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""160"" l=""143"" r=""322"" t=""98""></rect> 
+    </region>
+    <table xmlns="""" b=""160"" blockname="""" blocktype=""Table"" l=""143"" r=""322"" t=""98"" style=""transform: translate(90px, 64px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td bottomborder=""White"" h=""62"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""179""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""1330""> 
+          <line b=""147"" baseline=""147"" l=""152"" r=""308"" t=""110""> 
+           <formatting lang=""EnglishUnitedStates"">
+             RUSTA 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </page> 
+   <page h=""2200"" resolution=""200"" w=""1653"" data-pages=""2"" style=""height: 1344px;""> 
+    <block b=""151"" blockname="""" blocktype=""Text"" l=""148"" r=""312"" t=""106"" style=""transform: translate(93px, 69px); position: absolute; width: 103.281px; height: 29.25px;""> 
+     <region> 
+      <rect b=""151"" l=""148"" r=""312"" t=""106""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""1260""> 
+       <line b=""147"" baseline=""145"" l=""152"" r=""307"" t=""110"" style=""transform: translate(3px, 3px); position: absolute;""> 
+        <formatting lang=""NorwegianBokmal"">
+          ■RUSTA 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <block b=""156"" blockname="""" blocktype=""Text"" l=""1099"" r=""1197"" t=""124"" style=""transform: translate(692px, 81px); position: absolute; width: 61.7169px; height: 20.8px;""> 
+     <region> 
+      <rect b=""156"" l=""1099"" r=""1197"" t=""124""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""860""> 
+       <line b=""152"" baseline=""151"" l=""1103"" r=""1192"" t=""127"" style=""transform: translate(3px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Order 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""347"" l=""115"" r=""1436"" t=""246""></rect> 
+    </region>
+    <table xmlns="""" b=""347"" blockname="""" blocktype=""Table"" l=""115"" r=""1436"" t=""246"" style=""transform: translate(72px, 160px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td bottomborder=""White"" h=""31"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""247""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""540""> 
+          <line b=""267"" baseline=""266"" l=""119"" r=""224"" t=""251""> 
+           <formatting lang=""Swedish"">
+             Leverantoer 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""31"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""282""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""4000"" linespacing=""580""> 
+          <line b=""267"" baseline=""266"" l=""473"" r=""578"" t=""250""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Versionsnr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""31"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""296""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""2400"" linespacing=""610""> 
+          <line b=""270"" baseline=""270"" l=""713"" r=""831"" t=""253""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Printed date 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""31"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""307""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Center"" linespacing=""650"" rightindent=""800""> 
+          <line b=""267"" baseline=""267"" l=""1025"" r=""1183"" t=""249""> 
+           <formatting lang=""Swedish"">
+             Vart orderdatum 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""31"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""189""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""580""> 
+          <line b=""271"" baseline=""266"" l=""1316"" r=""1432"" t=""250""> 
+           <formatting lang=""Swedish"">
+             inkoepsorder 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td h=""70"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""247""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""720""> 
+          <line b=""304"" baseline=""303"" l=""119"" r=""193"" t=""283""> 
+           <formatting lang=""EnglishUnitedStates"">
+             20857 
+           </formatting> 
+          </line> 
+         </par> 
+         <par linespacing=""830""> 
+          <line b=""343"" baseline=""343"" l=""118"" r=""252"" t=""320""> 
+           <formatting lang=""EnglishUnitedStates"">
+             Att: Order 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""70"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""282""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""4000"" linespacing=""680""> 
+          <line b=""303"" baseline=""303"" l=""473"" r=""485"" t=""284""> 
+           <formatting lang=""EnglishUnitedStates"">
+             0 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""70"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""296""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""2400"" linespacing=""720""> 
+          <line b=""313"" baseline=""306"" l=""711"" r=""856"" t=""286""> 
+           <formatting lang=""EnglishUnitedStates"">
+             2018~jun~27 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""70"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""307""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Center"" linespacing=""720""> 
+          <line b=""304"" baseline=""303"" l=""1025"" r=""1163"" t=""283""> 
+           <formatting lang=""EnglishUnitedStates"">
+             2018-06-27 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td h=""70"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""189""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""830"" rightindent=""1000""> 
+          <line b=""306"" baseline=""306"" l=""1310"" r=""1408"" t=""283""> 
+           <formatting lang=""EnglishUnitedStates"">
+             <po data-toggle=""tooltip"" style=""background-color: rgb(183, 151, 98);"" class=""extraction-tag"" tagorder=""5"" appendorder=""8"" data-value=""615628"" data-original-title=""Purchase Order"" confidence=""1/1"">615628</po> 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <block b=""792"" blockname="""" blocktype=""Text"" l=""115"" r=""1541"" t=""358"" style=""transform: translate(72px, 233px); position: absolute; width: 898.044px; height: 282.1px;""> 
+     <region> 
+      <rect b=""792"" l=""115"" r=""1541"" t=""358""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""1296""> 
+       <line b=""388"" baseline=""382"" l=""119"" r=""1494"" t=""361"" style=""transform: translate(3px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          RUSTA requires that all products on this order shall comply with RoHS 2 (2011/65/EU) and WEEE (2012/19/EU) 
+        </formatting> 
+       </line> 
+       <line b=""425"" baseline=""419"" l=""118"" r=""1398"" t=""398"" style=""transform: translate(2px, 26px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          directives. This shall be confirmed with a RoHS test report and a Seif Declaration signed by the Supplier. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296""> 
+       <line b=""461"" baseline=""455"" l=""119"" r=""1111"" t=""434"" style=""transform: translate(3px, 49px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          1. This order is only valid when Rusta Supply Agreement is accepted and signed. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296""> 
+       <line b=""498"" baseline=""492"" l=""118"" r=""1307"" t=""471"" style=""transform: translate(2px, 73px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          2. The Supplier is not entitled to make partial deliveries without the prior written consent of Rusta. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296""> 
+       <line b=""534"" baseline=""528"" l=""118"" r=""1279"" t=""507"" style=""transform: translate(2px, 97px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          3. if an item does not pass our quality test. Rusta has the right to require quality improvements. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296""> 
+       <line b=""571"" baseline=""565"" l=""118"" r=""1363"" t=""544"" style=""transform: translate(2px, 121px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          4. The quality on produced items shall comply to approved reference sample and technical document. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296""> 
+       <line b=""608"" baseline=""602"" l=""119"" r=""1537"" t=""581"" style=""transform: translate(3px, 145px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Please confirm this order within three days. Packing list and invoice must be marked with RUSTA order number and 
+        </formatting> 
+       </line> 
+       <line b=""644"" baseline=""638"" l=""119"" r=""1535"" t=""617"" style=""transform: translate(3px, 168px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          item number. Barcode shall be on ail products. Please send barcode number within three days. Please fax or e-maii 
+        </formatting> 
+       </line> 
+       <line b=""681"" baseline=""675"" l=""119"" r=""1375"" t=""654"" style=""transform: translate(3px, 192px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          packing list and transport documents as soon as possible after shipment to ""deiivery.support@rusta.se 
+        </formatting> 
+       </line> 
+       <line b=""717"" baseline=""711"" l=""120"" r=""1446"" t=""690"" style=""transform: translate(3px, 216px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          if not agreed specificaiiy, Rusta has the right to return any delivered quantity exceeding the ordered quantity. 
+        </formatting> 
+       </line> 
+      </par> 
+      <par linespacing=""1296""> 
+       <line b=""754"" baseline=""748"" l=""119"" r=""1535"" t=""727"" style=""transform: translate(3px, 240px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Pallet standard: only Euro pallet and Chep pallet will be accepted (preferably Chep pallet). Maximum pallet height is 
+        </formatting> 
+       </line> 
+       <line b=""788"" baseline=""784"" l=""119"" r=""269"" t=""763"" style=""transform: translate(3px, 263px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          1,40 meters. 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""2041"" l=""115"" r=""1419"" t=""1921""></rect> 
+    </region>
+    <table xmlns="""" b=""2041"" blockname="""" blocktype=""Table"" l=""115"" r=""1419"" t=""1921"" style=""transform: translate(72px, 1249px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1937"" baseline=""1937"" l=""118"" r=""222"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Besoeksadress 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1937"" baseline=""1937"" l=""321"" r=""427"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Fakturaadress 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""430""> 
+          <line b=""1937"" baseline=""1936"" l=""523"" r=""577"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Telefon 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""470""> 
+          <line b=""1937"" baseline=""1937"" l=""725"" r=""751"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Fax 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""1941"" baseline=""1937"" l=""925"" r=""989"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Bankgiro 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1941"" baseline=""1937"" l=""1125"" r=""1184"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             Plusgiro 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""24"" leftborder=""White"" rightborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par align=""Right"" linespacing=""430""> 
+          <line b=""1941"" baseline=""1936"" l=""1328"" r=""1414"" t=""1924""> 
+           <formatting lang=""Swedish"">
+             fvlomsreg.nr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1964"" baseline=""1964"" l=""118"" r=""188"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Rusta AB 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""430""> 
+          <line b=""1964"" baseline=""1963"" l=""321"" r=""368"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Tfn vxl 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""470""> 
+          <line b=""1968"" baseline=""1964"" l=""523"" r=""587"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Bankgiro 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""430""> 
+          <line b=""1968"" baseline=""1963"" l=""725"" r=""812"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Org. number 
+           </formatting>  
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""1964"" baseline=""1964"" l=""925"" r=""963"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Bank 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1968"" baseline=""1964"" l=""1125"" r=""1240"" t=""1951""> 
+           <formatting lang=""Swedish"">
+             Bolaget innehar 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""430""> 
+          <line b=""1991"" baseline=""1986"" l=""118"" r=""256"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             Kanalvaegen 12, 4tr 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""321"" r=""418"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             08-626 43 00 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""524"" r=""592"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             722-3100 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""725"" r=""822"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             556280-2115 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""925"" r=""1024"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             Danske Bank 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""1987"" baseline=""1987"" l=""1125"" r=""1224"" t=""1974""> 
+           <formatting lang=""Swedish"">
+             F-skattebevis 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2012"" baseline=""2012"" l=""118"" r=""187"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             Box 5064 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2012"" baseline=""2012"" l=""321"" r=""347"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             Fax 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""430""> 
+          <line b=""2012"" baseline=""2011"" l=""524"" r=""628"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             Momsnummer 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""430""> 
+          <line b=""2012"" baseline=""2011"" l=""725"" r=""776"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             SWIFT 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""2012"" baseline=""2012"" l=""926"" r=""963"" t=""1999""> 
+           <formatting lang=""Swedish"">
+             IBAN 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""23"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+      <tr> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""192""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2036"" baseline=""2033"" l=""119"" r=""294"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             194 05 Upplands Vaesby 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""167""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""321"" r=""416"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             08-626 43 01 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""214""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1800"" linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""523"" r=""653"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             SE556280211501 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""184""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1300"" linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""725"" r=""814"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             DABASESX. 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""245""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1900"" linespacing=""470""> 
+          <line b=""2033"" baseline=""2033"" l=""925"" r=""1111"" t=""2020""> 
+           <formatting lang=""Swedish"">
+             SE901200000001338011 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""168""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""-1""></par> 
+        </text> </td> 
+       <td bottomborder=""White"" h=""25"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""134""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par leftindent=""1500"" linespacing=""-1""></par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <block b=""2063"" blockname="""" blocktype=""Text"" l=""1217"" r=""1257"" t=""2043"" style=""transform: translate(766px, 1328px); position: absolute; width: 25.1906px; height: 13px;""> 
+     <region> 
+      <rect b=""2063"" l=""1217"" r=""1257"" t=""2043""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""470""> 
+       <line b=""2059"" baseline=""2059"" l=""1220"" r=""1253"" t=""2046"" style=""transform: translate(2px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          Sida 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <block b=""2067"" blockname="""" blocktype=""Text"" l=""1427"" r=""1466"" t=""2043"" style=""transform: translate(899px, 1328px); position: absolute; width: 24.5608px; height: 15.6px;""> 
+     <region> 
+      <rect b=""2067"" l=""1427"" r=""1466"" t=""2043""></rect> 
+     </region> 
+     <text> 
+      <par linespacing=""470""> 
+       <line b=""2063"" baseline=""2059"" l=""1430"" r=""1462"" t=""2046"" style=""transform: translate(2px, 2px); position: absolute;""> 
+        <formatting lang=""EnglishUnitedStates"">
+          2(2) 
+        </formatting> 
+       </line> 
+      </par> 
+     </text> 
+    </block> 
+    <block b=""351"" blockname="""" blocktype=""Separator"" l=""118"" r=""1575"" t=""349"" style=""transform: translate(74px, 227px); position: absolute;""> 
+     <region> 
+      <rect b=""351"" l=""118"" r=""1575"" t=""349""></rect> 
+     </region> 
+     <separator thickness=""2"" type=""Black""> 
+      <start x=""118"" y=""350""></start> 
+      <end x=""1575"" y=""350""></end> 
+     </separator> 
+    </block> 
+    <block b=""1913"" blockname="""" blocktype=""Separator"" l=""120"" r=""1575"" t=""1911"" style=""transform: translate(76px, 1242px); position: absolute;""> 
+     <region> 
+      <rect b=""1913"" l=""120"" r=""1575"" t=""1911""></rect> 
+     </region> 
+     <separator thickness=""2"" type=""Black""> 
+      <start x=""120"" y=""1912""></start> 
+      <end x=""1575"" y=""1912""></end> 
+     </separator> 
+    </block> 
+    <region xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+     <rect b=""160"" l=""143"" r=""322"" t=""98""></rect> 
+    </region>
+    <table xmlns="""" b=""160"" blockname="""" blocktype=""Table"" l=""143"" r=""322"" t=""98"" style=""transform: translate(90px, 64px); position: absolute;"">  
+     <tbody>
+      <tr> 
+       <td bottomborder=""White"" h=""62"" leftborder=""White"" rightborder=""White"" topborder=""White"" w=""179""> 
+        <text xmlns=""http://ocr.crowdcomputingsystems.com/xml/schema-v1.xml""> 
+         <par linespacing=""1330""> 
+          <line b=""147"" baseline=""147"" l=""152"" r=""308"" t=""110""> 
+           <formatting lang=""EnglishUnitedStates"">
+             RUSTA 
+           </formatting> 
+          </line> 
+         </par> 
+        </text> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </page> 
+  </document>",ABY,"marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com",xmlForCorrectedImage,Y,,"Duplicate PO for SP 2001678608 and SH 2002814625|The net value does not match. In pdf the net value is 414469.44, in the SAP the net value is 569.701,44",,,YES,//gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/TESTING_PURPOSES_ONLY_CONFIGS/OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_central.xlsx,C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe,standard,https://wfapp-s3-dev.workfusion.pg.com,NO,DEV,false,NO,ne-ocr-processing,"{""product_information"":[{""productcode2"":""832013200101"",""tabnumber"":""0"",""productcode1"":""4084500578944"",""quantity"":""11616""},{""productcode2"":""832013200103"",""tabnumber"":""1"",""productcode1"":""4084500578975"",""quantity"":""10560""}]}",120,CustomerCodesNewFBNL.xlsx,https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/tiff/tiff/867bec69-d2b5-4639-895f-035cc525ad4a.tiff,SapBW_report_NE.xls,30,[RPA][NE] FAILURE -,DEV,25,NE,616 90,rpa-dach,/tmp/dach/test_casesSA.XLSX,ABY,"{""sales_area_id"":{""history"":[{""modifiedBy"":""[000] initialize"",""version"":0,""modifiedDate"":""2018-09-01T07:16:17+0000"",""value"":""""},{""modifiedBy"":""[130] shipTo derivation "",""version"":1,""value"":""SE40"",""modifiedDate"":""2018-09-01T07:22:52+0000""},{""modifiedBy"":""[176] product JSON flatenization"",""version"":2,""value"":""SE40"",""modifiedDate"":""2018-09-03T18:01:44+0000""}],""value"":""SE40""},""distribution_channel_id"":{""history"":[{""modifiedBy"":""[000] initialize"",""version"":0,""modifiedDate"":""2018-09-01T07:16:17+0000"",""value"":""""},{""modifiedBy"":""[130] shipTo derivation "",""version"":1,""value"":""50"",""modifiedDate"":""2018-09-01T07:22:52+0000""},{""modifiedBy"":""[176] product JSON flatenization"",""version"":2,""value"":""50"",""modifiedDate"":""2018-09-03T18:01:44+0000""}],""value"":""50""},""ship_to_id"":{""history"":[{""modifiedBy"":""[000] initialize"",""version"":0,""modifiedDate"":""2018-09-01T07:16:17+0000"",""value"":""""},{""modifiedBy"":""[130] shipTo derivation "",""version"":1,""value"":""2002814625"",""modifiedDate"":""2018-09-01T07:22:52+0000""},{""modifiedBy"":""[176] product JSON flatenization"",""version"":2,""value"":""2002814625"",""modifiedDate"":""2018-09-03T18:01:44+0000""}],""value"":""2002814625""},""rdd_orig"":{""history"":[{""modifiedBy"":""[000] initialize"",""version"":0,""modifiedDate"":""2018-09-01T07:16:17+0000"",""value"":""""},{""modifiedBy"":""export vector alignment"",""version"":1,""value"":""2018-09-03"",""modifiedDate"":""2018-09-01T07:22:28+0000""},{""modifiedBy"":""[160] RDD format fix"",""version"":2,""value"":"""",""modifiedDate"":""2018-09-03T17:59:43+0000""},{""modifiedBy"":""[176] product JSON flatenization"",""version"":3,""value"":""asap"",""modifiedDate"":""2018-09-03T18:01:44+0000""}],""value"":""asap""}}",615628,"414469,44",https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/c7b64f7b-2116-455c-bb3f-b4b18d5976ff/058ff671-0fc1-4641-93f3-429b7cebbee3/5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage-raw_processed.xml,smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx,WorkFusion S3 - Dev,b3bb4ff5-a337-4e8c-9e9c-7711c8c73d67,,2,Y,ABY,F6A EU SC Acc,2,/tmp/dach,,YES,false,false,,"{""params"":{""temp_directory"":{""key"":""temp_directory"",""paramName"":""temp_directory"",""effectiveValue"":""/tmp/dach"",""valuesMap"":{""50|SE40"":""/tmp/dach"",""50|DK40"":""/tmp/dach"",""54|NO42"":""/tmp/dach"",""50|NO40"":""/tmp/dach"",""54|FI42"":""/tmp/dach"",""50|FI40"":""/tmp/dach"",""54|DK42"":""/tmp/dach"",""54|GB42"":""/tmp/dach"",""54|SE42"":""/tmp/dach"",""50|GB40"":""/tmp/dach""},""values"":[""/tmp/dach""],""effective"":true},""cfg_display_gtin_file_loc"":{""key"":""cfg_display_gtin_file_loc"",""paramName"":""cfg_display_gtin_file_loc"",""effectiveValue"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""valuesMap"":{""50|SE40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""50|DK40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""54|NO42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""50|NO40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""54|FI42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""50|FI40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""54|DK42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""54|GB42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""54|SE42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx"",""50|GB40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx""},""values"":[""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx""],""effective"":true},""SAP-Archiving"":{""key"":""SAP-Archiving"",""paramName"":""sap_archiving"",""effectiveValue"":""Y"",""valuesMap"":{""50|SE40"":""Y"",""50|DK40"":""Y"",""54|NO42"":""Y"",""50|NO40"":""Y"",""54|FI42"":""Y"",""50|FI40"":""Y"",""54|DK42"":""Y"",""54|GB42"":""Y"",""54|SE42"":""Y"",""50|GB40"":""Y""},""values"":[""Y""],""effective"":true},""Distribution Channel Desc"":{""key"":""Distribution Channel Desc"",""paramName"":""ditribution_chl_desc"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""Retail"",""50|DK40"":""Retail"",""54|NO42"":""PGP"",""50|NO40"":""Retail"",""54|FI42"":""PGP"",""50|FI40"":""Retail"",""54|DK42"":""PGP"",""54|GB42"":""PGP"",""54|SE42"":""PGP"",""50|GB40"":""Retail""},""values"":[""Retail"",""PGP""],""effective"":false},""sap_bw_credentials_secure_store_id"":{""key"":""sap_bw_credentials_secure_store_id"",""paramName"":""sap_bw_credentials_secure_store_id"",""effectiveValue"":""OTC-OM-EU-SAP BW FCP"",""valuesMap"":{""50|SE40"":""OTC-OM-EU-SAP BW FCP"",""50|DK40"":""OTC-OM-EU-SAP BW FCP"",""54|NO42"":""OTC-OM-EU-SAP BW FCP"",""50|NO40"":""OTC-OM-EU-SAP BW FCP"",""54|FI42"":""OTC-OM-EU-SAP BW FCP"",""50|FI40"":""OTC-OM-EU-SAP BW FCP"",""54|DK42"":""OTC-OM-EU-SAP BW FCP"",""54|GB42"":""OTC-OM-EU-SAP BW FCP"",""54|SE42"":""OTC-OM-EU-SAP BW FCP"",""50|GB40"":""OTC-OM-EU-SAP BW FCP""},""values"":[""OTC-OM-EU-SAP BW FCP""],""effective"":true},""failure_email_recipient"":{""key"":""failure_email_recipient"",""paramName"":""failure_email_recipient"",""effectiveValue"":""giebultowicz.m@pg.com"",""valuesMap"":{""50|SE40"":""giebultowicz.m@pg.com"",""50|DK40"":""giebultowicz.m@pg.com"",""54|NO42"":""giebultowicz.m@pg.com"",""50|NO40"":""giebultowicz.m@pg.com"",""54|FI42"":""giebultowicz.m@pg.com"",""50|FI40"":""giebultowicz.m@pg.com"",""54|DK42"":""giebultowicz.m@pg.com"",""54|GB42"":""giebultowicz.m@pg.com"",""54|SE42"":""giebultowicz.m@pg.com"",""50|GB40"":""giebultowicz.m@pg.com""},""values"":[""giebultowicz.m@pg.com""],""effective"":true},""shared_drive_secure_store_id"":{""key"":""shared_drive_secure_store_id"",""paramName"":""shared_drive_secure_store_id"",""effectiveValue"":""OTC-OM-EU-SharedDrive"",""valuesMap"":{""50|SE40"":""OTC-OM-EU-SharedDrive"",""50|DK40"":""OTC-OM-EU-SharedDrive"",""54|NO42"":""OTC-OM-EU-SharedDrive"",""50|NO40"":""OTC-OM-EU-SharedDrive"",""54|FI42"":""OTC-OM-EU-SharedDrive"",""50|FI40"":""OTC-OM-EU-SharedDrive"",""54|DK42"":""OTC-OM-EU-SharedDrive"",""54|GB42"":""OTC-OM-EU-SharedDrive"",""54|SE42"":""OTC-OM-EU-SharedDrive"",""50|GB40"":""OTC-OM-EU-SharedDrive""},""values"":[""OTC-OM-EU-SharedDrive""],""effective"":true},""cfg_email_secure_store_id"":{""key"":""cfg_email_secure_store_id"",""paramName"":""cfg_email_secure_store_id"",""effectiveValue"":""OTC-OM-EU-SE Manual Order Shared email QA"",""valuesMap"":{""50|SE40"":""OTC-OM-EU-SE Manual Order Shared email QA"",""50|DK40"":""OTC-OM-EU-SE Manual Order Shared email QA"",""54|NO42"":""OTC-OM-EU-SE Manual Order Shared email QA"",""50|NO40"":""OTC-OM-EU-SE Manual Order Shared email QA"",""54|FI42"":""OTC-OM-EU-SE Manual Order Shared email QA"",""50|FI40"":""OTC-OM-EU-SE Manual Order Shared email QA"",""54|DK42"":""OTC-OM-EU-SE Manual Order Shared email QA"",""54|GB42"":""OTC-OM-EU-SE Manual Order Shared email QA"",""54|SE42"":""OTC-OM-EU-SE Manual Order Shared email QA"",""50|GB40"":""OTC-OM-EU-SE Manual Order Shared email QA""},""values"":[""OTC-OM-EU-SE Manual Order Shared email QA""],""effective"":true},""Country Desc"":{""key"":""Country Desc"",""paramName"":""country_desc"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""Sweden"",""50|DK40"":""Denmark"",""54|NO42"":""Norway"",""50|NO40"":""Norway"",""54|FI42"":""Finland"",""50|FI40"":""Finland"",""54|DK42"":""Denmark"",""54|GB42"":""UK"",""54|SE42"":""Sweden"",""50|GB40"":""UK""},""values"":[""Sweden"",""Norway"",""UK"",""Finland"",""Denmark""],""effective"":false},""Price Comparison"":{""key"":""Price Comparison"",""paramName"":""price_comparison"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""Y"",""50|DK40"":""Y"",""54|NO42"":""Y"",""50|NO40"":""Y"",""54|FI42"":""Y"",""50|FI40"":""Y"",""54|DK42"":""Y"",""54|GB42"":""N"",""54|SE42"":""Y"",""50|GB40"":""N""},""values"":[""Y"",""N""],""effective"":false},""cfg_nexus_uri"":{""key"":""cfg_nexus_uri"",""paramName"":""cfg_nexus_uri"",""effectiveValue"":""http://db-dev.workfusion.pg.com:8381/nexus"",""valuesMap"":{""50|SE40"":""http://db-dev.workfusion.pg.com:8381/nexus"",""50|DK40"":""http://db-dev.workfusion.pg.com:8381/nexus"",""54|NO42"":""http://db-dev.workfusion.pg.com:8381/nexus"",""50|NO40"":""http://db-dev.workfusion.pg.com:8381/nexus"",""54|FI42"":""http://db-dev.workfusion.pg.com:8381/nexus"",""50|FI40"":""http://db-dev.workfusion.pg.com:8381/nexus"",""54|DK42"":""http://db-dev.workfusion.pg.com:8381/nexus"",""54|GB42"":""http://db-dev.workfusion.pg.com:8381/nexus"",""54|SE42"":""http://db-dev.workfusion.pg.com:8381/nexus"",""50|GB40"":""http://db-dev.workfusion.pg.com:8381/nexus""},""values"":[""http://db-dev.workfusion.pg.com:8381/nexus""],""effective"":true},""s3_secure_store_id"":{""key"":""s3_secure_store_id"",""paramName"":""s3_secure_store_id"",""effectiveValue"":""WorkFusion S3 - Dev"",""valuesMap"":{""50|SE40"":""WorkFusion S3 - Dev"",""50|DK40"":""WorkFusion S3 - Dev"",""54|NO42"":""WorkFusion S3 - Dev"",""50|NO40"":""WorkFusion S3 - Dev"",""54|FI42"":""WorkFusion S3 - Dev"",""50|FI40"":""WorkFusion S3 - Dev"",""54|DK42"":""WorkFusion S3 - Dev"",""54|GB42"":""WorkFusion S3 - Dev"",""54|SE42"":""WorkFusion S3 - Dev"",""50|GB40"":""WorkFusion S3 - Dev""},""values"":[""WorkFusion S3 - Dev""],""effective"":true},""ship_to_report_xls_uri"":{""key"":""ship_to_report_xls_uri"",""paramName"":""ship_to_report_xls_uri"",""effectiveValue"":""not used"",""valuesMap"":{""50|SE40"":""not used"",""50|DK40"":""not used"",""54|NO42"":""not used"",""50|NO40"":""not used"",""54|FI42"":""not used"",""50|FI40"":""not used"",""54|DK42"":""not used"",""54|GB42"":""not used"",""54|SE42"":""not used"",""50|GB40"":""not used""},""values"":[""not used""],""effective"":true},""cfg_sap_gui_exec_filename"":{""key"":""cfg_sap_gui_exec_filename"",""paramName"":""cfg_sap_gui_exec_filename"",""effectiveValue"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""valuesMap"":{""50|SE40"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""50|DK40"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""54|NO42"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""50|NO40"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""54|FI42"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""50|FI40"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""54|DK42"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""54|GB42"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""54|SE42"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"",""50|GB40"":""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe""},""values"":[""C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe""],""effective"":true},""cfg_default_rdd_days_before"":{""key"":""cfg_default_rdd_days_before"",""paramName"":""cfg_default_rdd_days_before"",""effectiveValue"":""30"",""valuesMap"":{""50|SE40"":""30"",""50|DK40"":""30"",""54|NO42"":""30"",""50|NO40"":""30"",""54|FI42"":""30"",""50|FI40"":""30"",""54|DK42"":""30"",""54|GB42"":""30"",""54|SE42"":""30"",""50|GB40"":""30""},""values"":[""30""],""effective"":true},""Market"":{""key"":""Market"",""paramName"":""market"",""effectiveValue"":""NE"",""valuesMap"":{""50|SE40"":""NE"",""50|DK40"":""NE"",""54|NO42"":""NE"",""50|NO40"":""NE"",""54|FI42"":""NE"",""50|FI40"":""NE"",""54|DK42"":""NE"",""54|GB42"":""NE"",""54|SE42"":""NE"",""50|GB40"":""NE""},""values"":[""NE""],""effective"":true},""s3_endpoint_url"":{""key"":""s3_endpoint_url"",""paramName"":""s3_endpoint_url"",""effectiveValue"":""https://wfapp-s3-dev.workfusion.pg.com"",""valuesMap"":{""50|SE40"":""https://wfapp-s3-dev.workfusion.pg.com"",""50|DK40"":""https://wfapp-s3-dev.workfusion.pg.com"",""54|NO42"":""https://wfapp-s3-dev.workfusion.pg.com"",""50|NO40"":""https://wfapp-s3-dev.workfusion.pg.com"",""54|FI42"":""https://wfapp-s3-dev.workfusion.pg.com"",""50|FI40"":""https://wfapp-s3-dev.workfusion.pg.com"",""54|DK42"":""https://wfapp-s3-dev.workfusion.pg.com"",""54|GB42"":""https://wfapp-s3-dev.workfusion.pg.com"",""54|SE42"":""https://wfapp-s3-dev.workfusion.pg.com"",""50|GB40"":""https://wfapp-s3-dev.workfusion.pg.com""},""values"":[""https://wfapp-s3-dev.workfusion.pg.com""],""effective"":true},""SOrg"":{""key"":""SOrg"",""paramName"":""sales_organization"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""SE40"",""50|DK40"":""DK40"",""54|NO42"":""NO42"",""50|NO40"":""NO40"",""54|FI42"":""FI42"",""50|FI40"":""FI40"",""54|DK42"":""DK42"",""54|GB42"":""GB42"",""54|SE42"":""SE42"",""50|GB40"":""GB40""},""values"":[""FI42"",""DK40"",""DK42"",""GB40"",""SE42"",""GB42"",""SE40"",""NO40"",""NO42"",""FI40""],""effective"":false},""cfg_gtin_mapping_filename"":{""key"":""cfg_gtin_mapping_filename"",""paramName"":""cfg_gtin_mapping_filename"",""effectiveValue"":""CustomerCodesNewFBNL.xlsx"",""valuesMap"":{""50|SE40"":""CustomerCodesNewFBNL.xlsx"",""50|DK40"":""CustomerCodesNewFBNL.xlsx"",""54|NO42"":""CustomerCodesNewFBNL.xlsx"",""50|NO40"":""CustomerCodesNewFBNL.xlsx"",""54|FI42"":""CustomerCodesNewFBNL.xlsx"",""50|FI40"":""CustomerCodesNewFBNL.xlsx"",""54|DK42"":""CustomerCodesNewFBNL.xlsx"",""54|GB42"":""CustomerCodesNewFBNL.xlsx"",""54|SE42"":""CustomerCodesNewFBNL.xlsx"",""50|GB40"":""CustomerCodesNewFBNL.xlsx""},""values"":[""CustomerCodesNewFBNL.xlsx""],""effective"":true},""Country"":{""key"":""Country"",""paramName"":""country"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""SE"",""50|DK40"":""DK"",""54|NO42"":""NO"",""50|NO40"":""NO"",""54|FI42"":""FI"",""50|FI40"":""FI"",""54|DK42"":""DK"",""54|GB42"":""GB"",""54|SE42"":""SE"",""50|GB40"":""GB""},""values"":[""NO"",""SE"",""FI"",""DK"",""GB""],""effective"":false},""cfg_bw_report_filename"":{""key"":""cfg_bw_report_filename"",""paramName"":""cfg_bw_report_filename"",""effectiveValue"":""SapBW_report_NE.xls"",""valuesMap"":{""50|SE40"":""SapBW_report_NE.xls"",""50|DK40"":""SapBW_report_NE.xls"",""54|NO42"":""SapBW_report_NE.xls"",""50|NO40"":""SapBW_report_NE.xls"",""54|FI42"":""SapBW_report_NE.xls"",""50|FI40"":""SapBW_report_NE.xls"",""54|DK42"":""SapBW_report_NE.xls"",""54|GB42"":""SapBW_report_NE.xls"",""54|SE42"":""SapBW_report_NE.xls"",""50|GB40"":""SapBW_report_NE.xls""},""values"":[""SapBW_report_NE.xls""],""effective"":true},""debug_mode"":{""key"":""debug_mode"",""paramName"":""debug_mode"",""effectiveValue"":""NO"",""valuesMap"":{""50|SE40"":""NO"",""50|DK40"":""NO"",""54|NO42"":""NO"",""50|NO40"":""NO"",""54|FI42"":""NO"",""50|FI40"":""NO"",""54|DK42"":""NO"",""54|GB42"":""NO"",""54|SE42"":""NO"",""50|GB40"":""NO""},""values"":[""NO""],""effective"":true},""cfg_control_tower_endpoint"":{""key"":""cfg_control_tower_endpoint"",""paramName"":""cfg_control_tower_endpoint"",""effectiveValue"":""https://wfapp-dev.workfusion.pg.com"",""valuesMap"":{""50|SE40"":""https://wfapp-dev.workfusion.pg.com"",""50|DK40"":""https://wfapp-dev.workfusion.pg.com"",""54|NO42"":""https://wfapp-dev.workfusion.pg.com"",""50|NO40"":""https://wfapp-dev.workfusion.pg.com"",""54|FI42"":""https://wfapp-dev.workfusion.pg.com"",""50|FI40"":""https://wfapp-dev.workfusion.pg.com"",""54|DK42"":""https://wfapp-dev.workfusion.pg.com"",""54|GB42"":""https://wfapp-dev.workfusion.pg.com"",""54|SE42"":""https://wfapp-dev.workfusion.pg.com"",""50|GB40"":""https://wfapp-dev.workfusion.pg.com""},""values"":[""https://wfapp-dev.workfusion.pg.com""],""effective"":true},""failure_email_subject_prefix"":{""key"":""failure_email_subject_prefix"",""paramName"":""failure_email_subject_prefix"",""effectiveValue"":""[RPA][NE] FAILURE -"",""valuesMap"":{""50|SE40"":""[RPA][NE] FAILURE -"",""50|DK40"":""[RPA][NE] FAILURE -"",""54|NO42"":""[RPA][NE] FAILURE -"",""50|NO40"":""[RPA][NE] FAILURE -"",""54|FI42"":""[RPA][NE] FAILURE -"",""50|FI40"":""[RPA][NE] FAILURE -"",""54|DK42"":""[RPA][NE] FAILURE -"",""54|GB42"":""[RPA][NE] FAILURE -"",""54|SE42"":""[RPA][NE] FAILURE -"",""50|GB40"":""[RPA][NE] FAILURE -""},""values"":[""[RPA][NE] FAILURE -""],""effective"":true},""cfg_default_rdd_days_after"":{""key"":""cfg_default_rdd_days_after"",""paramName"":""cfg_default_rdd_days_after"",""effectiveValue"":""120"",""valuesMap"":{""50|SE40"":""120"",""50|DK40"":""120"",""54|NO42"":""120"",""50|NO40"":""120"",""54|FI42"":""120"",""50|FI40"":""120"",""54|DK42"":""120"",""54|GB42"":""120"",""54|SE42"":""120"",""50|GB40"":""120""},""values"":[""120""],""effective"":true},""cfg_po_fix_flag"":{""key"":""cfg_po_fix_flag"",""paramName"":""cfg_po_fix_flag"",""effectiveValue"":""YES"",""valuesMap"":{""50|SE40"":""YES"",""50|DK40"":""YES"",""54|NO42"":""YES"",""50|NO40"":""YES"",""54|FI42"":""YES"",""50|FI40"":""YES"",""54|DK42"":""YES"",""54|GB42"":""YES"",""54|SE42"":""YES"",""50|GB40"":""YES""},""values"":[""YES""],""effective"":true},""ENV"":{""key"":""ENV"",""paramName"":""env"",""effectiveValue"":""DEV"",""valuesMap"":{""50|SE40"":""DEV"",""50|DK40"":""DEV"",""54|NO42"":""DEV"",""50|NO40"":""DEV"",""54|FI42"":""DEV"",""50|FI40"":""DEV"",""54|DK42"":""DEV"",""54|GB42"":""DEV"",""54|SE42"":""DEV"",""50|GB40"":""DEV""},""values"":[""DEV""],""effective"":true},""smtp_server_host"":{""key"":""smtp_server_host"",""paramName"":""smtp_server_host"",""effectiveValue"":""smtpgw.pg.com"",""valuesMap"":{""50|SE40"":""smtpgw.pg.com"",""50|DK40"":""smtpgw.pg.com"",""54|NO42"":""smtpgw.pg.com"",""50|NO40"":""smtpgw.pg.com"",""54|FI42"":""smtpgw.pg.com"",""50|FI40"":""smtpgw.pg.com"",""54|DK42"":""smtpgw.pg.com"",""54|GB42"":""smtpgw.pg.com"",""54|SE42"":""smtpgw.pg.com"",""50|GB40"":""smtpgw.pg.com""},""values"":[""smtpgw.pg.com""],""effective"":true},""test_cases_xlsx_uri"":{""key"":""test_cases_xlsx_uri"",""paramName"":""test_cases_xlsx_uri"",""effectiveValue"":""/tmp/dach/test_casesSA.XLSX"",""valuesMap"":{""50|SE40"":""/tmp/dach/test_casesSA.XLSX"",""50|DK40"":""/tmp/dach/test_casesSA.XLSX"",""54|NO42"":""/tmp/dach/test_casesSA.XLSX"",""50|NO40"":""/tmp/dach/test_casesSA.XLSX"",""54|FI42"":""/tmp/dach/test_casesSA.XLSX"",""50|FI40"":""/tmp/dach/test_casesSA.XLSX"",""54|DK42"":""/tmp/dach/test_casesSA.XLSX"",""54|GB42"":""/tmp/dach/test_casesSA.XLSX"",""54|SE42"":""/tmp/dach/test_casesSA.XLSX"",""50|GB40"":""/tmp/dach/test_casesSA.XLSX""},""values"":[""/tmp/dach/test_casesSA.XLSX""],""effective"":true},""s3_attachments_bucket"":{""key"":""s3_attachments_bucket"",""paramName"":""s3_attachments_bucket"",""effectiveValue"":""rpa-dach"",""valuesMap"":{""50|SE40"":""rpa-dach"",""50|DK40"":""rpa-dach"",""54|NO42"":""rpa-dach"",""50|NO40"":""rpa-dach"",""54|FI42"":""rpa-dach"",""50|FI40"":""rpa-dach"",""54|DK42"":""rpa-dach"",""54|GB42"":""rpa-dach"",""54|SE42"":""rpa-dach"",""50|GB40"":""rpa-dach""},""values"":[""rpa-dach""],""effective"":true},""cfg_bw_report_uri"":{""key"":""cfg_bw_report_uri"",""paramName"":""cfg_bw_report_uri"",""effectiveValue"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""valuesMap"":{""50|SE40"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""50|DK40"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""54|NO42"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""50|NO40"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""54|FI42"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""50|FI40"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""54|DK42"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""54|GB42"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""54|SE42"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark "",""50|GB40"":""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark ""},""values"":[""fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark ""],""effective"":true},""Language"":{""key"":""Language"",""paramName"":""language"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""SV"",""50|DK40"":""DA"",""54|NO42"":""NO"",""50|NO40"":""NO"",""54|FI42"":""FI"",""50|FI40"":""FI"",""54|DK42"":""DA"",""54|GB42"":""EN"",""54|SE42"":""SV"",""50|GB40"":""EN""},""values"":[""NO"",""FI"",""SV"",""EN"",""DA""],""effective"":false},""EAN6TO13 Conv SAP"":{""key"":""EAN6TO13 Conv SAP"",""paramName"":""ean6to13_conv_sap"",""effectiveValue"":""Y"",""valuesMap"":{""50|SE40"":""Y"",""50|DK40"":""Y"",""54|NO42"":""Y"",""50|NO40"":""Y"",""54|FI42"":""Y"",""50|FI40"":""Y"",""54|DK42"":""Y"",""54|GB42"":""Y"",""54|SE42"":""Y"",""50|GB40"":""Y""},""values"":[""Y""],""effective"":true},""cfg_pickup_mail"":{""key"":""cfg_pickup_mail"",""paramName"":""cfg_pickup_mail"",""effectiveValue"":""NO"",""valuesMap"":{""50|SE40"":""NO"",""50|DK40"":""NO"",""54|NO42"":""NO"",""50|NO40"":""NO"",""54|FI42"":""NO"",""50|FI40"":""NO"",""54|DK42"":""NO"",""54|GB42"":""NO"",""54|SE42"":""NO"",""50|GB40"":""NO""},""values"":[""NO""],""effective"":true},""DChl"":{""key"":""DChl"",""paramName"":""ditribution_chl"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""50"",""50|DK40"":""50"",""54|NO42"":""54"",""50|NO40"":""50"",""54|FI42"":""54"",""50|FI40"":""50"",""54|DK42"":""54"",""54|GB42"":""54"",""54|SE42"":""54"",""50|GB40"":""50""},""values"":[""50"",""54""],""effective"":false},""confirmation_email_recipient"":{""key"":""confirmation_email_recipient"",""paramName"":""confirmation_email_recipient"",""effectiveValue"":""giebultowicz.m@pg.com"",""valuesMap"":{""50|SE40"":""giebultowicz.m@pg.com"",""50|DK40"":""giebultowicz.m@pg.com"",""54|NO42"":""giebultowicz.m@pg.com"",""50|NO40"":""giebultowicz.m@pg.com"",""54|FI42"":""giebultowicz.m@pg.com"",""50|FI40"":""giebultowicz.m@pg.com"",""54|DK42"":""giebultowicz.m@pg.com"",""54|GB42"":""giebultowicz.m@pg.com"",""54|SE42"":""giebultowicz.m@pg.com"",""50|GB40"":""giebultowicz.m@pg.com""},""values"":[""giebultowicz.m@pg.com""],""effective"":true},""cfg_gtin_customers_mapping_filename"":{""key"":""cfg_gtin_customers_mapping_filename"",""paramName"":""cfg_gtin_customers_mapping_filename"",""effectiveValue"":""CustomersFBNL.xlsx"",""valuesMap"":{""50|SE40"":""CustomersFBNL.xlsx"",""50|DK40"":""CustomersFBNL.xlsx"",""54|NO42"":""CustomersFBNL.xlsx"",""50|NO40"":""CustomersFBNL.xlsx"",""54|FI42"":""CustomersFBNL.xlsx"",""50|FI40"":""CustomersFBNL.xlsx"",""54|DK42"":""CustomersFBNL.xlsx"",""54|GB42"":""CustomersFBNL.xlsx"",""54|SE42"":""CustomersFBNL.xlsx"",""50|GB40"":""CustomersFBNL.xlsx""},""values"":[""CustomersFBNL.xlsx""],""effective"":true},""local config"":{""key"":""local config"",""paramName"":""local_config"",""effectiveValue"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""valuesMap"":{""50|SE40"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""50|DK40"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""54|NO42"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""50|NO40"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""54|FI42"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""50|FI40"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""54|DK42"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""54|GB42"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""54|SE42"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx"",""50|GB40"":""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx""},""values"":[""\\\\gadc-wfs005.na.pg.com\\Shared\\OTC_RPA\\EU\\OTC-EU-Manual_Order_Creation_WF\\NE\\DEV\\Process Configuration\\TESTING_PURPOSES_ONLY_CONFIGS\\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx""],""effective"":true},""failure_email_from"":{""key"":""failure_email_from"",""paramName"":""failure_email_from"",""effectiveValue"":""qasecsoshared.im@pg.com"",""valuesMap"":{""50|SE40"":""qasecsoshared.im@pg.com"",""50|DK40"":""qasecsoshared.im@pg.com"",""54|NO42"":""qasecsoshared.im@pg.com"",""50|NO40"":""qasecsoshared.im@pg.com"",""54|FI42"":""qasecsoshared.im@pg.com"",""50|FI40"":""qasecsoshared.im@pg.com"",""54|DK42"":""qasecsoshared.im@pg.com"",""54|GB42"":""qasecsoshared.im@pg.com"",""54|SE42"":""qasecsoshared.im@pg.com"",""50|GB40"":""qasecsoshared.im@pg.com""},""values"":[""qasecsoshared.im@pg.com""],""effective"":true},""email_credentials_secure_store_id"":{""key"":""email_credentials_secure_store_id"",""paramName"":""email_credentials_secure_store_id"",""effectiveValue"":""DACH shared email (IMAP)"",""valuesMap"":{""50|SE40"":""DACH shared email (IMAP)"",""50|DK40"":""DACH shared email (IMAP)"",""54|NO42"":""DACH shared email (IMAP)"",""50|NO40"":""DACH shared email (IMAP)"",""54|FI42"":""DACH shared email (IMAP)"",""50|FI40"":""DACH shared email (IMAP)"",""54|DK42"":""DACH shared email (IMAP)"",""54|GB42"":""DACH shared email (IMAP)"",""54|SE42"":""DACH shared email (IMAP)"",""50|GB40"":""DACH shared email (IMAP)""},""values"":[""DACH shared email (IMAP)""],""effective"":true},""In process error distribution list"":{""key"":""In process error distribution list"",""paramName"":""process_error_distribution_list"",""effectiveValue"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""valuesMap"":{""50|SE40"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""50|DK40"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""54|NO42"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""50|NO40"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""54|FI42"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""50|FI40"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""54|DK42"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""54|GB42"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""54|SE42"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com"",""50|GB40"":""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com""},""values"":[""marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com""],""effective"":true},""gtin_maping_xlsx_uri"":{""key"":""gtin_maping_xlsx_uri"",""paramName"":""gtin_maping_xlsx_uri"",""effectiveValue"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""valuesMap"":{""50|SE40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""50|DK40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""54|NO42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""50|NO40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""54|FI42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""50|FI40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""54|DK42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""54|GB42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""54|SE42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx"",""50|GB40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx""},""values"":[""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx""],""effective"":true},""manual_path_max_cnt"":{""key"":""manual_path_max_cnt"",""paramName"":""manual_path_max_cnt"",""effectiveValue"":""3"",""valuesMap"":{""50|SE40"":""3"",""50|DK40"":""3"",""54|NO42"":""3"",""50|NO40"":""3"",""54|FI42"":""3"",""50|FI40"":""3"",""54|DK42"":""3"",""54|GB42"":""3"",""54|SE42"":""3"",""50|GB40"":""3""},""values"":[""3""],""effective"":true},""smtp_server_port"":{""key"":""smtp_server_port"",""paramName"":""smtp_server_port"",""effectiveValue"":""25"",""valuesMap"":{""50|SE40"":""25"",""50|DK40"":""25"",""54|NO42"":""25"",""50|NO40"":""25"",""54|FI42"":""25"",""50|FI40"":""25"",""54|DK42"":""25"",""54|GB42"":""25"",""54|SE42"":""25"",""50|GB40"":""25""},""values"":[""25""],""effective"":true},""sap_credentials_secure_store_id"":{""key"":""sap_credentials_secure_store_id"",""paramName"":""sap_credentials_secure_store_id"",""effectiveValue"":""OTC-OM-EU-SAP Order Processing F6A"",""valuesMap"":{""50|SE40"":""OTC-OM-EU-SAP Order Processing F6A"",""50|DK40"":""OTC-OM-EU-SAP Order Processing F6A"",""54|NO42"":""OTC-OM-EU-SAP Order Processing F6A"",""50|NO40"":""OTC-OM-EU-SAP Order Processing F6A"",""54|FI42"":""OTC-OM-EU-SAP Order Processing F6A"",""50|FI40"":""OTC-OM-EU-SAP Order Processing F6A"",""54|DK42"":""OTC-OM-EU-SAP Order Processing F6A"",""54|GB42"":""OTC-OM-EU-SAP Order Processing F6A"",""54|SE42"":""OTC-OM-EU-SAP Order Processing F6A"",""50|GB40"":""OTC-OM-EU-SAP Order Processing F6A""},""values"":[""OTC-OM-EU-SAP Order Processing F6A""],""effective"":true},""cfg_valid_sender_list"":{""key"":""cfg_valid_sender_list"",""paramName"":""cfg_valid_sender_list"",""effectiveValue"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""valuesMap"":{""50|SE40"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""50|DK40"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""54|NO42"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""50|NO40"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""54|FI42"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""50|FI40"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""54|DK42"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""54|GB42"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""54|SE42"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com"",""50|GB40"":""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com""},""values"":[""marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com""],""effective"":true},""cfg_attach_pdf"":{""key"":""cfg_attach_pdf"",""paramName"":""cfg_attach_pdf"",""effectiveValue"":""YES"",""valuesMap"":{""50|SE40"":""YES"",""50|DK40"":""YES"",""54|NO42"":""YES"",""50|NO40"":""YES"",""54|FI42"":""YES"",""50|FI40"":""YES"",""54|DK42"":""YES"",""54|GB42"":""YES"",""54|SE42"":""YES"",""50|GB40"":""YES""},""values"":[""YES""],""effective"":true},""cfg_tz_adjust_minutes_num"":{""key"":""cfg_tz_adjust_minutes_num"",""paramName"":""cfg_tz_adjust_minutes_num"",""effectiveValue"":""2"",""valuesMap"":{""50|SE40"":""2"",""50|DK40"":""2"",""54|NO42"":""2"",""50|NO40"":""2"",""54|FI42"":""2"",""50|FI40"":""2"",""54|DK42"":""2"",""54|GB42"":""2"",""54|SE42"":""2"",""50|GB40"":""2""},""values"":[""2""],""effective"":true},""confirmation_email_subject_prefix"":{""key"":""confirmation_email_subject_prefix"",""paramName"":""confirmation_email_subject_prefix"",""effectiveValue"":""[RPA][NE] SUCCESS -"",""valuesMap"":{""50|SE40"":""[RPA][NE] SUCCESS -"",""50|DK40"":""[RPA][NE] SUCCESS -"",""54|NO42"":""[RPA][NE] SUCCESS -"",""50|NO40"":""[RPA][NE] SUCCESS -"",""54|FI42"":""[RPA][NE] SUCCESS -"",""50|FI40"":""[RPA][NE] SUCCESS -"",""54|DK42"":""[RPA][NE] SUCCESS -"",""54|GB42"":""[RPA][NE] SUCCESS -"",""54|SE42"":""[RPA][NE] SUCCESS -"",""50|GB40"":""[RPA][NE] SUCCESS -""},""values"":[""[RPA][NE] SUCCESS -""],""effective"":true},""Language Single Ch"":{""key"":""Language Single Ch"",""paramName"":""lang_single_code"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""V    "",""50|DK40"":""K    "",""54|NO42"":""O    "",""50|NO40"":""O    "",""54|FI42"":""U    "",""50|FI40"":""U    "",""54|DK42"":""K    "",""54|GB42"":""E    "",""54|SE42"":""V    "",""50|GB40"":""E    ""},""values"":[""K    "",""O    "",""U    "",""V    "",""E    ""],""effective"":false},""LE"":{""key"":""LE"",""paramName"":""legal_entity"",""effectiveValue"":"""",""valuesMap"":{""50|SE40"":""118"",""50|DK40"":""736"",""54|NO42"":""611"",""50|NO40"":""611"",""54|FI42"":""737"",""50|FI40"":""737"",""54|DK42"":""736"",""54|GB42"":""686"",""54|SE42"":""118"",""50|GB40"":""686""},""values"":[""686"",""611"",""118"",""736"",""737""],""effective"":false},""cfg_sap_connection_name"":{""key"":""cfg_sap_connection_name"",""paramName"":""cfg_sap_connection_name"",""effectiveValue"":""F6A EU SC Acc"",""valuesMap"":{""50|SE40"":""F6A EU SC Acc"",""50|DK40"":""F6A EU SC Acc"",""54|NO42"":""F6A EU SC Acc"",""50|NO40"":""F6A EU SC Acc"",""54|FI42"":""F6A EU SC Acc"",""50|FI40"":""F6A EU SC Acc"",""54|DK42"":""F6A EU SC Acc"",""54|GB42"":""F6A EU SC Acc"",""54|SE42"":""F6A EU SC Acc"",""50|GB40"":""F6A EU SC Acc""},""values"":[""F6A EU SC Acc""],""effective"":true},""confirmation_email_from"":{""key"":""confirmation_email_from"",""paramName"":""confirmation_email_from"",""effectiveValue"":""qasecsoshared.im@pg.com"",""valuesMap"":{""50|SE40"":""qasecsoshared.im@pg.com"",""50|DK40"":""qasecsoshared.im@pg.com"",""54|NO42"":""qasecsoshared.im@pg.com"",""50|NO40"":""qasecsoshared.im@pg.com"",""54|FI42"":""qasecsoshared.im@pg.com"",""50|FI40"":""qasecsoshared.im@pg.com"",""54|DK42"":""qasecsoshared.im@pg.com"",""54|GB42"":""qasecsoshared.im@pg.com"",""54|SE42"":""qasecsoshared.im@pg.com"",""50|GB40"":""qasecsoshared.im@pg.com""},""values"":[""qasecsoshared.im@pg.com""],""effective"":true},""gtin_maping_customers_xlsx_uri"":{""key"":""gtin_maping_customers_xlsx_uri"",""paramName"":""gtin_maping_customers_xlsx_uri"",""effectiveValue"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""valuesMap"":{""50|SE40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""50|DK40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""54|NO42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""50|NO40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""54|FI42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""50|FI40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""54|DK42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""54|GB42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""54|SE42"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx"",""50|GB40"":""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx""},""values"":[""smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx""],""effective"":true}},""status"":""SUCCESS"",""statusMsg"":""OK""}",OTC-OM-EU-SharedDrive,"English,Finnish,Danish,Swedish,Norwegian",615628,DEV,2002814625,smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx,qasecsoshared.im@pg.com,3160285370,fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark,giebultowicz.m@pg.com,ce30657e324b694a714f6a872d64ae59,,120,,2018-09-03,feeb0e60-1601-4af8-bc80-07abe6512f10,bfa92bb46351a50d826ca35cefb8b253,,,NE OCR Cache,"aman.bhardwaj@dxc.com,giebultowicz.m@pg.com",NO,CustomersFBNL.xlsx,aman.bhardwaj@dxc.com,marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com,YES,feeb0e60-1601-4af8-bc80-07abe6512f10,/tmp/dach,"{""xmlForCorrectedImage"":{""original_document_url"":""https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/tiff/tiff/5571df8e-0e32-43da-8b74-93531580ae81.tiff"",""ocr_export_format"":""xmlForCorrectedImage"",""ocr_raw_processed_document_url"":""https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/c7b64f7b-2116-455c-bb3f-b4b18d5976ff/058ff671-0fc1-4641-93f3-429b7cebbee3/5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage-raw_processed.xml"",""ocr_document_format"":""xml"",""ocr_document_url"":""https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/c7b64f7b-2116-455c-bb3f-b4b18d5976ff/058ff671-0fc1-4641-93f3-429b7cebbee3/5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage.xml""}}","aman.bhardwaj@dxc.com,giebultowicz.m@pg.com",false,3,Lageruddsvaegen 1,2018-09-01 07:18,,not used,qasecsoshared.im@pg.com,\\gadc-wfs005.na.pg.com\Shared\OTC_RPA\EU\OTC-EU-Manual_Order_Creation_WF\NE\DEV\Process Configuration\TESTING_PURPOSES_ONLY_CONFIGS\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx,,DEBUG,full,https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/feeb0e60-1601-4af8-bc80-07abe6512f10/b3bb4ff5-a337-4e8c-9e9c-7711c8c73d67/5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage-raw_processed_additional_processing_without_umlauts.xml,,30,01.09.2018,OTC-OM-EU-SE Manual Order Shared email QA,NO,"2018-09-01T07:16:00.605 INFO: [0100] Load configs -- started
+2018-09-01T07:16:00.653 DEBUG: Deriving environment based on hosts
+2018-09-01T07:16:00.793 DEBUG: Host name: devwf-app-zl01
+2018-09-01T07:16:00.825 INFO:    DEV environment detected.
+2018-09-01T07:16:00.902 DEBUG: Retrieving shared drive credentials from [OTC-OM-EU-SharedDrive] secure store
+2018-09-01T07:16:00.945 INFO:    retrieved user: rpacsoom002.im and pass: **********.
+2018-09-01T07:16:00.987 DEBUG: Loading JARs:
+2018-09-01T07:16:01.024 DEBUG:    pgconfigs-1.0.jar
+2018-09-01T07:16:01.092 DEBUG: Setting up configuration reader.
+2018-09-01T07:16:01.211 DEBUG: [1] prepare auth
+2018-09-01T07:16:01.248 DEBUG: [2] auth prepared
+2018-09-01T07:16:01.281 DEBUG: [3] before reading source
+2018-09-01T07:16:01.309 DEBUG: [4] sourcepath: smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/TESTING_PURPOSES_ONLY_CONFIGS/OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_central.xlsx
+2018-09-01T07:16:07.679 DEBUG: [4] source: 11856
+2018-09-01T07:16:07.709 DEBUG: [5] before creating files
+2018-09-01T07:16:07.735 DEBUG: [5.1] destination: /tmp/dach/configs/central.xlsx
+2018-09-01T07:16:07.760 DEBUG: [6] file created: false
+2018-09-01T07:16:07.922 DEBUG: [7] before save 11856
+2018-09-01T07:16:07.954 DEBUG: [8] after save
+2018-09-01T07:16:07.983 DEBUG: Reading global config from /tmp/dach/configs/central.xlsx for NE.
+2018-09-01T07:16:08.752 INFO: Reading local config from \\gadc-wfs005.na.pg.com\Shared\OTC_RPA\EU\OTC-EU-Manual_Order_Creation_WF\NE\DEV\Process Configuration\TESTING_PURPOSES_ONLY_CONFIGS\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx.
+2018-09-01T07:16:08.783 DEBUG: [1] prepare auth
+2018-09-01T07:16:08.809 DEBUG: [2] auth prepared
+2018-09-01T07:16:08.837 DEBUG: [3] before reading source
+2018-09-01T07:16:08.867 DEBUG: [4] sourcepath: smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/TESTING_PURPOSES_ONLY_CONFIGS/OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx
+2018-09-01T07:16:08.924 DEBUG: [4] source: 19425
+2018-09-01T07:16:08.951 DEBUG: [5] before creating files
+2018-09-01T07:16:08.979 DEBUG: [5.1] destination: /tmp/dach/configs/local.xlsx
+2018-09-01T07:16:09.005 DEBUG: [6] file created: false
+2018-09-01T07:16:09.224 DEBUG: [7] before save 19425
+2018-09-01T07:16:09.250 DEBUG: [8] after save
+2018-09-01T07:16:09.706 ERROR: Following variable(s) not defined unabiguously in config files: [sap_archiving, ditribution_chl_desc, country_desc, price_comparison, cfg_max_qty, market, sales_organization, country, env, language, ean6to13_conv_sap, source_of_order, ditribution_chl, local_config, process_error_distribution_list, lang_single_code, legal_entity]
+2018-09-01T07:16:09.823 DEBUG: temp_directory -> /tmp/dach
+2018-09-01T07:16:09.860 DEBUG: cfg_display_gtin_file_loc -> smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/DisplayCodes.xlsx
+2018-09-01T07:16:09.886 DEBUG: sap_archiving -> Y
+2018-09-01T07:16:09.912 DEBUG: ditribution_chl_desc -> 
+2018-09-01T07:16:09.939 DEBUG: sap_bw_credentials_secure_store_id -> OTC-OM-EU-SAP BW FCP
+2018-09-01T07:16:09.967 DEBUG: failure_email_recipient -> giebultowicz.m@pg.com
+2018-09-01T07:16:09.991 DEBUG: shared_drive_secure_store_id -> OTC-OM-EU-SharedDrive
+2018-09-01T07:16:10.021 DEBUG: cfg_email_secure_store_id -> OTC-OM-EU-SE Manual Order Shared email QA
+2018-09-01T07:16:10.046 DEBUG: country_desc -> 
+2018-09-01T07:16:10.072 DEBUG: price_comparison -> 
+2018-09-01T07:16:10.097 DEBUG: cfg_nexus_uri -> http://db-dev.workfusion.pg.com:8381/nexus
+2018-09-01T07:16:10.125 DEBUG: s3_secure_store_id -> WorkFusion S3 - Dev
+2018-09-01T07:16:10.168 DEBUG: ship_to_report_xls_uri -> not used
+2018-09-01T07:16:10.196 DEBUG: cfg_sap_gui_exec_filename -> C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+2018-09-01T07:16:10.220 DEBUG: cfg_max_qty -> 
+2018-09-01T07:16:10.421 DEBUG: cfg_default_rdd_days_before -> 30
+2018-09-01T07:16:10.449 DEBUG: market -> NE
+2018-09-01T07:16:10.477 DEBUG: s3_endpoint_url -> https://wfapp-s3-dev.workfusion.pg.com
+2018-09-01T07:16:10.505 DEBUG: sales_organization -> 
+2018-09-01T07:16:10.538 DEBUG: cfg_gtin_mapping_filename -> CustomerCodesNewFBNL.xlsx
+2018-09-01T07:16:10.567 DEBUG: country -> 
+2018-09-01T07:16:10.593 DEBUG: cfg_bw_report_filename -> SapBW_report_NE.xls
+2018-09-01T07:16:10.623 DEBUG: debug_mode -> NO
+2018-09-01T07:16:10.656 DEBUG: cfg_control_tower_endpoint -> https://wfapp-dev.workfusion.pg.com
+2018-09-01T07:16:10.691 DEBUG: failure_email_subject_prefix -> [RPA][NE] FAILURE -
+2018-09-01T07:16:10.728 DEBUG: cfg_default_rdd_days_after -> 120
+2018-09-01T07:16:10.762 DEBUG: cfg_po_fix_flag -> YES
+2018-09-01T07:16:10.792 DEBUG: env -> DEV
+2018-09-01T07:16:10.826 DEBUG: smtp_server_host -> smtpgw.pg.com
+2018-09-01T07:16:10.853 DEBUG: test_cases_xlsx_uri -> /tmp/dach/test_casesSA.XLSX
+2018-09-01T07:16:10.877 DEBUG: s3_attachments_bucket -> rpa-dach
+2018-09-01T07:16:10.902 DEBUG: cfg_bw_report_uri -> fcp.na.pg.com:9000/sap/bw/BEx?SAP-LANGUAGE=EN&BOOKMARK_ID=0HNKR72GWWFRTAY3WYJPYLRUB#bookmark 
+2018-09-01T07:16:10.927 DEBUG: language -> 
+2018-09-01T07:16:10.952 DEBUG: ean6to13_conv_sap -> Y
+2018-09-01T07:16:10.980 DEBUG: source_of_order -> 
+2018-09-01T07:16:11.008 DEBUG: cfg_pickup_mail -> NO
+2018-09-01T07:16:11.037 DEBUG: ditribution_chl -> 
+2018-09-01T07:16:11.061 DEBUG: confirmation_email_recipient -> giebultowicz.m@pg.com
+2018-09-01T07:16:11.086 DEBUG: cfg_gtin_customers_mapping_filename -> CustomersFBNL.xlsx
+2018-09-01T07:16:11.108 DEBUG: failure_email_from -> qasecsoshared.im@pg.com
+2018-09-01T07:16:11.135 DEBUG: local_config -> \\gadc-wfs005.na.pg.com\Shared\OTC_RPA\EU\OTC-EU-Manual_Order_Creation_WF\NE\DEV\Process Configuration\TESTING_PURPOSES_ONLY_CONFIGS\OTC-EU-Manual_Order_Creation_WF-CentralConfigByCluster_local.xlsx
+2018-09-01T07:16:11.160 DEBUG: email_credentials_secure_store_id -> DACH shared email (IMAP)
+2018-09-01T07:16:11.184 DEBUG: process_error_distribution_list -> marcacci.m@pg.com; wake.l@pg.com; go.jt@pg.com; schulz.ak@pg.com; eucsoshared.im@pg.com
+2018-09-01T07:16:11.210 DEBUG: gtin_maping_xlsx_uri -> smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx
+2018-09-01T07:16:11.234 DEBUG: manual_path_max_cnt -> 3
+2018-09-01T07:16:11.259 DEBUG: smtp_server_port -> 25
+2018-09-01T07:16:11.286 DEBUG: sap_credentials_secure_store_id -> OTC-OM-EU-SAP Order Processing F6A
+2018-09-01T07:16:11.312 DEBUG: cfg_valid_sender_list -> marcin.giebultowicz@hpe.com,marcin.giebultowicz@dxc.com,wenerski@dxc.com,wenerski@hpe.com,aman.bhardwaj@hpe.com,aman.bhardwaj@dxc.com,varun.kumar5@hpe.com,varun.kumar5@dxc.com,seweryn.krz.michalak@hpe.com,seweryn.krz.michalak@dxc.com,manjari.sahay@dxc.com,manjari.sahay@hpe.com,sylwester.arczewski@hpe.com,sylwester.arczewski@dxc.com
+2018-09-01T07:16:11.348 DEBUG: cfg_attach_pdf -> YES
+2018-09-01T07:16:11.372 DEBUG: cfg_tz_adjust_minutes_num -> 2
+2018-09-01T07:16:11.397 DEBUG: confirmation_email_subject_prefix -> [RPA][NE] SUCCESS -
+2018-09-01T07:16:11.425 DEBUG: lang_single_code -> 
+2018-09-01T07:16:11.452 DEBUG: legal_entity -> 
+2018-09-01T07:16:11.477 DEBUG: cfg_sap_connection_name -> F6A EU SC Acc
+2018-09-01T07:16:11.508 DEBUG: confirmation_email_from -> qasecsoshared.im@pg.com
+2018-09-01T07:16:11.533 DEBUG: gtin_maping_customers_xlsx_uri -> smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomersFBNL.xlsx2018-09-01T07:23:36.770 INFO: Display GTINs matching    -- started",2018-09-03,DACH shared email (IMAP),Background,,SE40,,Lageruddsvaegen 1,2,2001678608,smb://gadc-wfs005.na.pg.com/Shared/OTC_RPA/EU/OTC-EU-Manual_Order_Creation_WF/NE/DEV/Process Configuration/CustomerCodesNewFBNL.xlsx,smtpgw.pg.com,[RPA][NE] SUCCESS -,SAP-6|SAP-26,616 90,OTC-OM-EU-SharedDrive,"BT_AutoAnalysis,BT_Table,BT_Text",https://wfapp-s3-dev.workfusion.pg.com/rpa-dach/screenshots/feeb0e60_1601_4af8_bc80_07abe6512f10_ce30657e324b694a714f6a872d64ae59_1_6.jpg|https://wfapp-s3-dev.workfusion.pg.com/rpa-dach/screenshots/feeb0e60_1601_4af8_bc80_07abe6512f10_ce30657e324b694a714f6a872d64ae59_1_26.jpg,http://db-dev.workfusion.pg.com:8381/nexus,,https://wfapp-dev.workfusion.pg.com,https://wfapp-s3-dev.workfusion.pg.com/rpa-dach/orders/ce30657e324b694a714f6a872d64ae59.pdf,OTC-OM-EU-SAP Order Processing F6A,OTC-OM-EU-SAP BW FCP,"[{""original_document_url"":""https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/tiff/tiff/5571df8e-0e32-43da-8b74-93531580ae81.tiff"",""ocr_export_format"":""xmlForCorrectedImage"",""ocr_raw_processed_document_url"":""https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/c7b64f7b-2116-455c-bb3f-b4b18d5976ff/058ff671-0fc1-4641-93f3-429b7cebbee3/5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage-raw_processed.xml"",""original_document_name"":""5571df8e-0e32-43da-8b74-93531580ae81"",""ocr_document_name"":""5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage"",""ocr_document_format"":""xml"",""ocr_raw_processed_document_name"":""5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage-raw_processed"",""ocr_document_url"":""https://wfapp-s3-dev.workfusion.pg.com/ne-ocr-processing/c7b64f7b-2116-455c-bb3f-b4b18d5976ff/058ff671-0fc1-4641-93f3-429b7cebbee3/5571df8e-0e32-43da-8b74-93531580ae81-xmlForCorrectedImage.xml""}]",NE,832013200101,4084500578944,11616,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,,Lageruddsvaegen 1,ABY,616 90,2018-09-03,615628,"{""product_lines"":[{""product_code"":{""last"":""4084500578944"",""ocred"":""4084500578944"",""mtfixed"":null,""ocrfixed"":""4084500578944""},""product_code1"":{""last"":""4084500578944"",""ocred"":""4084500578944"",""mtfixed"":""4084500578944"",""ocrfixed"":""4084500578944""},""product_code2"":{""last"":""832013200101"",""ocred"":""832013200101"",""mtfixed"":""832013200101"",""ocrfixed"":""832013200101""},""quantity"":{""last"":""11616"",""ocred"":""11616"",""mtfixed"":""11616"",""ocrfixed"":""11616""},""gtin"":{""last"":""4084500578944"",""rpaed"":""4084500578944"",""mtfixed"":""4084500578944"",""display_gtin"":""""},""position"":1},{""product_code"":{""last"":""4084500578975"",""ocred"":""4084500578975"",""mtfixed"":null,""ocrfixed"":""4084500578975""},""product_code1"":{""last"":""4084500578975"",""ocred"":""4084500578975"",""mtfixed"":""4084500578975"",""ocrfixed"":""4084500578975""},""product_code2"":{""last"":""832013200103"",""ocred"":""832013200103"",""mtfixed"":""832013200103"",""ocrfixed"":""832013200103""},""quantity"":{""last"":""10560"",""ocred"":""10560"",""mtfixed"":""10560"",""ocrfixed"":""10560""},""gtin"":{""last"":""4084500578975"",""rpaed"":""4084500578975"",""mtfixed"":""4084500578975"",""display_gtin"":""""},""position"":2}]}",1,13,false,50,false,"{""products_json"":[{""product_code1"":""4084500578944"",""product_code2"":""832013200101"",""gtin"":""4084500578944"",""quantity"":""11616"",""gtin_correction"":""n/a"",""quantity_correction"":""n/a"",""display_gtin"":""n/a""},{""product_code1"":""4084500578975"",""product_code2"":""832013200103"",""gtin"":""4084500578975"",""quantity"":""10560"",""gtin_correction"":""n/a"",""quantity_correction"":""n/a"",""display_gtin"":""n/a""}]}","{""error_list_json"":[{""error"":""Request delivery date wasn't derived due to date out of range or unknown format: ""}]}",YES,"<table style=""border: 1px solid black;""><tr><th>Error row</th><th>Error description</th></tr><tr style=""border: 1px solid black;""><td style=""border: 1px solid black;"">0</td><td>Request delivery date wasn't derived due to date out of range or unknown format: </td></tr></table>",3,2018-09-01,300000,true,"{""products_json"":[{""product_code1"":""4084500578944"",""product_code2"":""832013200101"",""gtin"":""4084500578944"",""quantity"":""11616"",""gtin_correction"":"""",""quantity_correction"":"""",""display_gtin"":""""},{""product_code1"":""4084500578975"",""product_code2"":""832013200103"",""gtin"":""4084500578975"",""quantity"":""10560"",""gtin_correction"":"""",""quantity_correction"":"""",""display_gtin"":""""}]}",30,120,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,1 out of 1,,false,"{""soldtos_json"":[{""soldto"":""2001678608"",""name"":""rusta ab/ nässjö warehouse"",""selected"":""yes""},{""soldto"":""2002814625"",""name"":""rusta norrköping"",""selected"":""no""}]}",NO,YES,"{""soldtos_json"":[{""soldto"":""2001678608"",""name"":""RUSTA AB/ NÄSSJÖ WAREHOUSE"",""selected"":""YES""},{""soldto"":""2002814625"",""name"":""RUSTA NORRKÖPING"",""selected"":""NO""}]}",true,NO,1 out of 1,1 out of 1,1 out of 1,1 out of 1,https://wfapp-s3-dev.workfusion.pg.com/rpa-dach/screenshots/%2Fopt/workfusion/apps/webapps/tomcat/temp/feeb0e60-1601-4af8-bc80-07abe6512f10out.jpg,1,"ErrStep 4 -2147352567 ''
+"
